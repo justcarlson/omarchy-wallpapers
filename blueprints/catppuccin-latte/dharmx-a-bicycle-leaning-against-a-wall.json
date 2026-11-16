@@ -1,0 +1,28 @@
+{
+  "name": "Catppuccin Latte - A Bicycle Leaning Against a Wall",
+  "palette": {
+    "colors": [
+      "#f8f5f7",
+      "#925b66",
+      "#846e26",
+      "#7c702b",
+      "#363d61",
+      "#6b4668",
+      "#3f7594",
+      "#222834",
+      "#8b8589",
+      "#bc7c8a",
+      "#aa932f",
+      "#a19536",
+      "#565c8c",
+      "#926591",
+      "#5e99c1",
+      "#404657"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/unsorted/a_bicycle_leaning_against_a_wall.png",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "88a38d846fbf2efec3dbf1234274fb145807944bc3adfa89d99be8ae663051b0"
+}

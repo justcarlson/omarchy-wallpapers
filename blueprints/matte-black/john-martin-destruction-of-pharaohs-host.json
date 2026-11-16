@@ -1,0 +1,27 @@
+{
+  "name": "Matte Black - Destruction of Pharaohs Host",
+  "palette": {
+    "colors": [
+      "#0b0606",
+      "#ad9071",
+      "#d0c391",
+      "#fff0b4",
+      "#a17367",
+      "#d29f81",
+      "#dde09d",
+      "#d2c399",
+      "#635b5b",
+      "#c9a47d",
+      "#eada98",
+      "#ffefa4",
+      "#be8575",
+      "#f3b28b",
+      "#f5f8a5",
+      "#faf4ea"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/The_Destruction_of_Pharaoh%E2%80%99s_Host%2C_by_John_Martin.jpg/1920px-The_Destruction_of_Pharaoh%E2%80%99s_Host%2C_by_John_Martin.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "318c4450cf01955e514c4b1df6b58aa97b1c964bda6526081b0e56b71798a470"
+}

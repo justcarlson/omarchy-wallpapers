@@ -1,0 +1,27 @@
+{
+  "name": "Nord - Setting Out to Fish",
+  "palette": {
+    "colors": [
+      "#080706",
+      "#ab916f",
+      "#ccc591",
+      "#fff2b3",
+      "#718962",
+      "#d1a07d",
+      "#d7e29e",
+      "#f0e8cb",
+      "#615d57",
+      "#c6a57a",
+      "#e5dc97",
+      "#fff2a2",
+      "#82a070",
+      "#f1b385",
+      "#edfba6",
+      "#f9f5ea"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/John_Singer_Sargent_-_Cancale.jpg/3840px-John_Singer_Sargent_-_Cancale.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "560825e3041ebe431ea3af5ad2440c2635f3a2a83cb52625bc9b0a13172e71aa"
+}

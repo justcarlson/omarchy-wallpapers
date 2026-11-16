@@ -1,0 +1,27 @@
+{
+  "name": "Retro 82 - A Chain From a Ceiling",
+  "palette": {
+    "colors": [
+      "#00070c",
+      "#e6be3f",
+      "#48863a",
+      "#7d8200",
+      "#577fbd",
+      "#5d7dbe",
+      "#427f8f",
+      "#f7c961",
+      "#636a6e",
+      "#fdca00",
+      "#64ae44",
+      "#a0a900",
+      "#78a2f1",
+      "#7e9ff3",
+      "#61a4b9",
+      "#ffd400"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/solarized/a_chain_from_a_ceiling.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "b20714a13d1322db7d250cba1709ada26bc718f3f461a4a985dcfbdd0f39f672"
+}

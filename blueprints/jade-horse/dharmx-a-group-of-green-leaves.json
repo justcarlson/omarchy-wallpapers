@@ -1,0 +1,27 @@
+{
+  "name": "Jade Horse - A Group of Green Leaves",
+  "palette": {
+    "colors": [
+      "#060b0e",
+      "#959a79",
+      "#aecdab",
+      "#defdd0",
+      "#5f8b7f",
+      "#b6ad80",
+      "#b3e9c7",
+      "#f2fbd1",
+      "#5d6367",
+      "#aab087",
+      "#bee6bb",
+      "#daffc8",
+      "#6ba293",
+      "#cfc389",
+      "#c0ffda",
+      "#eff8ef"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/nature/a_group_of_green_leaves.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "149745b9985935b8d1d5fd2651cd77794ea9aa555a61b4fab29286a3102ab340"
+}

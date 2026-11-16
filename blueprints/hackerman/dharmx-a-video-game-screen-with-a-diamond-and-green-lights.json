@@ -1,0 +1,27 @@
+{
+  "name": "Hackerman - A Video Game Screen with a Diamond and Green Lights",
+  "palette": {
+    "colors": [
+      "#000a14",
+      "#6aa67a",
+      "#66dac6",
+      "#89ffea",
+      "#188fa3",
+      "#48bae7",
+      "#40f7f6",
+      "#d9faff",
+      "#5b6165",
+      "#73c089",
+      "#52f7dd",
+      "#5effe8",
+      "#00a8c1",
+      "#2ed4ff",
+      "#00ffff",
+      "#eaf9f8"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/poly/a_video_game_screen_with_a_diamond_and_green_lights.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "906479e8ae3aa2b5ff1f784dbb925f7796957de726db78f6d17f5535f2a2f318"
+}

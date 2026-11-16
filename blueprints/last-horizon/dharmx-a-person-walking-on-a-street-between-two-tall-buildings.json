@@ -1,0 +1,27 @@
+{
+  "name": "Last Horizon - A Person Walking on a Street Between Two Tall Buildings",
+  "palette": {
+    "colors": [
+      "#010606",
+      "#ab8c6e",
+      "#cec08c",
+      "#ffecaf",
+      "#9f7064",
+      "#d19b7e",
+      "#dcdc97",
+      "#eeecf2",
+      "#616969",
+      "#c7a07a",
+      "#e9d692",
+      "#ffeea2",
+      "#bc8273",
+      "#f1ad88",
+      "#f4f49e",
+      "#fbf4ea"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/architecture/a_person_walking_on_a_street_between_two_tall_buildings.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "f60eaf9afc4bf61481a83a2a775faa4c4224c5d77e68d1e5a7c86dbfe24a37f1"
+}

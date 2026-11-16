@@ -1,0 +1,27 @@
+{
+  "name": "Kanagawa - A Gas Station with Lights on the Front and a Car Parked in the Front",
+  "palette": {
+    "colors": [
+      "#0f1417",
+      "#a28659",
+      "#518686",
+      "#968153",
+      "#5a8690",
+      "#b39966",
+      "#558b89",
+      "#cbbfad",
+      "#696f73",
+      "#caab6f",
+      "#70acac",
+      "#bda669",
+      "#7aabb8",
+      "#dbbf7b",
+      "#74b1af",
+      "#e5ca99"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/dreamcore/a_gas_station_with_lights_on_the_front_and_a_car_parked_in_the_front.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "e26075525adbae1625929b75eb8338cff399d0d0ee7c7ad99d062a0524eca415"
+}

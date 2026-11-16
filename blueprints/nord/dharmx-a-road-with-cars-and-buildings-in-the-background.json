@@ -1,0 +1,27 @@
+{
+  "name": "Nord - A Road with Cars and Buildings in the Background",
+  "palette": {
+    "colors": [
+      "#030510",
+      "#b17360",
+      "#d18969",
+      "#f7ab84",
+      "#6574af",
+      "#6b75b6",
+      "#7d89ce",
+      "#d0876d",
+      "#67686f",
+      "#dc967d",
+      "#fead83",
+      "#ffaf6e",
+      "#8896e2",
+      "#8e96ea",
+      "#a1abff",
+      "#fdaa88"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/nord/a_road_with_cars_and_buildings_in_the_background.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "9c48f0e81e2cd5ec163be573ea1321151b3981719cac9e9b77ec1ba6f42c3665"
+}

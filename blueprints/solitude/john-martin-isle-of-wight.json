@@ -1,0 +1,27 @@
+{
+  "name": "Solitude - Isle of Wight",
+  "palette": {
+    "colors": [
+      "#090705",
+      "#a2947c",
+      "#c5c6a3",
+      "#f9f4c9",
+      "#73876f",
+      "#c4a68b",
+      "#d3e1b6",
+      "#c2b698",
+      "#615d58",
+      "#bba98a",
+      "#dcddb0",
+      "#fbf4bf",
+      "#849e80",
+      "#e0ba97",
+      "#e8fac4",
+      "#f8f5ea"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/John_Martin_-_Landscape%2C_Possibly_the_Isle_of_Wight_or_Richmond_Hill_-_Google_Art_Project.jpg/3840px-John_Martin_-_Landscape%2C_Possibly_the_Isle_of_Wight_or_Richmond_Hill_-_Google_Art_Project.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "edd05c40109571df7ba776be094cebd3fcea6ab8258fbcb9564676f24834bda7"
+}

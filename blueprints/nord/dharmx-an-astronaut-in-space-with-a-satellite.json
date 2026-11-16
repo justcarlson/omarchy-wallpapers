@@ -1,0 +1,27 @@
+{
+  "name": "Nord - An Astronaut in Space with a Satellite",
+  "palette": {
+    "colors": [
+      "#040712",
+      "#9292b6",
+      "#94cde1",
+      "#b5ffff",
+      "#6882a3",
+      "#9aabda",
+      "#a5e3ff",
+      "#edf0f5",
+      "#5c5e64",
+      "#a7a6d4",
+      "#9be7ff",
+      "#a4ffff",
+      "#7798c1",
+      "#abc0fd",
+      "#aefcff",
+      "#eef6ff"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/nord/an_astronaut_in_space_with_a_satellite.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "ab70dc2d463d92645f8d756836bd5c5b073d3e32b61e5401cfef77510c841078"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Ristretto - Solar System",
+  "palette": {
+    "colors": [
+      "#17120e",
+      "#c48a62",
+      "#e9c06f",
+      "#ffe98d",
+      "#b86a66",
+      "#f09475",
+      "#f7de67",
+      "#d3ac84",
+      "#726d68",
+      "#e59b69",
+      "#ffd466",
+      "#ffe268",
+      "#d87974",
+      "#ffa17a",
+      "#fff256",
+      "#fdf3eb"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/AngelJumbo/gruvbox-wallpapers/6aa74cbd65973e1a2a8695e83a58ce3ea634dd5e/wallpapers/mix/solar-system.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "f1a56c5a880852ebbaac4bc6b44275cb43688c984491b78053cef23c59f47758"
+}

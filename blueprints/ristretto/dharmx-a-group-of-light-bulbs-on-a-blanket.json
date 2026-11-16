@@ -1,0 +1,27 @@
+{
+  "name": "Ristretto - A Group of Light Bulbs on a Blanket",
+  "palette": {
+    "colors": [
+      "#030809",
+      "#c0885e",
+      "#e3bd6b",
+      "#ffe788",
+      "#b46761",
+      "#ec9170",
+      "#f1dc65",
+      "#fdf0cb",
+      "#575f60",
+      "#e09964",
+      "#ffd262",
+      "#ffe366",
+      "#d5766e",
+      "#ff9f73",
+      "#fff357",
+      "#fcf3eb"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/lightbulb/a_group_of_light_bulbs_on_a_blanket.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "85c12864936fa93d0cc514904851312a1566feb3ba585bdd75f1cec5f811dcb3"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Catppuccin - Japan Alley",
+  "palette": {
+    "colors": [
+      "#050412",
+      "#b6b9f6",
+      "#dfe0ff",
+      "#c8ccfd",
+      "#99a3c6",
+      "#8184a7",
+      "#b4bae3",
+      "#e9dcc6",
+      "#68686f",
+      "#c1c0ff",
+      "#e5e3ff",
+      "#d2d4ff",
+      "#bec8f5",
+      "#a5a7d4",
+      "#bdc2ff",
+      "#ffe8b1"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/7bfdf10d16ad3a689f9f0cf3a0930da3d1a245a8/japan-alley.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "077acd9ceb72fd870c35598303e4e9c4332068a4a51aceba3c2ee44c393f9fc3"
+}

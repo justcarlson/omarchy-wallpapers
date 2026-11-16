@@ -1,0 +1,27 @@
+{
+  "name": "Hackerman - Dark Waves",
+  "palette": {
+    "colors": [
+      "#060613",
+      "#9b90ab",
+      "#a6c8e1",
+      "#cbfaff",
+      "#777f9c",
+      "#aaa7ce",
+      "#beddff",
+      "#a7c1dc",
+      "#5d5d64",
+      "#b3a4c6",
+      "#b4e0ff",
+      "#c1fbff",
+      "#8a93b8",
+      "#c0bced",
+      "#cef5ff",
+      "#f2f5ff"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/7bfdf10d16ad3a689f9f0cf3a0930da3d1a245a8/dark-waves.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "b3acddda16e42fa7c58a0e5d2b858c9b1b52af6e3bd8ca4738a4032194a7344a"
+}

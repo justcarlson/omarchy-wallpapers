@@ -1,0 +1,27 @@
+{
+  "name": "Matte Black - A City Skyline at Night",
+  "palette": {
+    "colors": [
+      "#141313",
+      "#c48969",
+      "#ebbe76",
+      "#ffe796",
+      "#b56b6d",
+      "#ee947f",
+      "#fcdb6f",
+      "#f0e5de",
+      "#746c6c",
+      "#e49b71",
+      "#ffd270",
+      "#ffe076",
+      "#d57a7c",
+      "#ffa186",
+      "#ffee61",
+      "#fdf3ec"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/gruvbox/a_city_skyline_at_night.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "34c0a9ab204e486e380dfc0daa49fd11401c474f7399e0714f85f1a86fd08094"
+}

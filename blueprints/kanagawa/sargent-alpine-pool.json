@@ -1,0 +1,27 @@
+{
+  "name": "Kanagawa - Alpine Pool",
+  "palette": {
+    "colors": [
+      "#040404",
+      "#a49160",
+      "#bbc787",
+      "#f2f5a4",
+      "#5a8b64",
+      "#cda064",
+      "#bde69a",
+      "#a39d84",
+      "#67655f",
+      "#bea667",
+      "#d0e08b",
+      "#f6fa93",
+      "#67a373",
+      "#edb364",
+      "#cdffa1",
+      "#f5f6eb"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Alpine_Pool_MET_DT5585.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "2e528953c6231f8b7e2eeaee390390d0cea0afab14d404ec81f58ce53c97cf1f"
+}

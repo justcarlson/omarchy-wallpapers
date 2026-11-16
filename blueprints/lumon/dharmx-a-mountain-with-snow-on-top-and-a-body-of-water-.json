@@ -1,0 +1,27 @@
+{
+  "name": "Lumon - A Mountain with Snow on Top and a Body of Water",
+  "palette": {
+    "colors": [
+      "#04080c",
+      "#9393ac",
+      "#a4cad7",
+      "#cbfcff",
+      "#708298",
+      "#a0abcb",
+      "#b7e1fb",
+      "#eef5ff",
+      "#595e63",
+      "#a8a8c7",
+      "#b1e3f4",
+      "#c1feff",
+      "#8197b3",
+      "#b2c1ea",
+      "#c6f9ff",
+      "#eef6ff"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/mountain/a_mountain_with_snow_on_top_and_a_body_of_water_01.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "88e5edeeb2425b5c2a8dec9acafcdc44f92ac2ec267d9e6497ef290d29f6bf00"
+}

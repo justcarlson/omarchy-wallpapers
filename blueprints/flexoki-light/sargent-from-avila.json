@@ -1,0 +1,28 @@
+{
+  "name": "Flexoki Light - From Avila",
+  "palette": {
+    "colors": [
+      "#dcdde4",
+      "#696135",
+      "#645b23",
+      "#5d6727",
+      "#595681",
+      "#5e5786",
+      "#5f5a82",
+      "#000100",
+      "#707177",
+      "#8d8549",
+      "#877f32",
+      "#7e8c33",
+      "#7c76ae",
+      "#8177b4",
+      "#827baf",
+      "#0b1409"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/From_%C3%81vila_MET_DT235917.jpg",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "57045335af6a5c9312f2e2ecc76c8df8f3145b8065decb0e896de6a72fdf81e6"
+}

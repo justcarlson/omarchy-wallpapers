@@ -1,0 +1,27 @@
+{
+  "name": "Catppuccin - Yohoho",
+  "palette": {
+    "colors": [
+      "#11121c",
+      "#bc8992",
+      "#f4b5a5",
+      "#ffded4",
+      "#9e7394",
+      "#d999b6",
+      "#f8c9ff",
+      "#e5d5b9",
+      "#6c6d73",
+      "#da9aa7",
+      "#ffc6b1",
+      "#ffd5c8",
+      "#b984ad",
+      "#faa9cf",
+      "#ffd9ff",
+      "#fef1f5"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/7bfdf10d16ad3a689f9f0cf3a0930da3d1a245a8/yohoho.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "4fbd2817ad7783da97d8edbd2c97c288e88c4ab3c2d6aba606765b54cc29f62d"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Last Horizon - A Group of Light Bulbs",
+  "palette": {
+    "colors": [
+      "#0a0b10",
+      "#c08674",
+      "#edb781",
+      "#ffe0a7",
+      "#ac6a78",
+      "#e5928f",
+      "#ffd17b",
+      "#dedad9",
+      "#626369",
+      "#df9781",
+      "#ffc982",
+      "#ffdb92",
+      "#ca7a8b",
+      "#ffa09d",
+      "#ffe677",
+      "#fff2ee"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/lightbulb/a_group_of_light_bulbs.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "ca3c91ee28b84bdb1f8e1bb862468f3e543e1fd6c115ddb986ffb80727b99c53"
+}

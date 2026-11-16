@@ -1,0 +1,27 @@
+{
+  "name": "Tokyo Night - A Street with Buildings and Signs",
+  "palette": {
+    "colors": [
+      "#04050d",
+      "#e06d89",
+      "#6ea5ea",
+      "#c9627e",
+      "#427abc",
+      "#c077b5",
+      "#8dc0ff",
+      "#65aff8",
+      "#67686e",
+      "#ff8caf",
+      "#8fc9ff",
+      "#f981a4",
+      "#629df1",
+      "#ed96e5",
+      "#89caff",
+      "#82d1ff"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/outrun/a_street_with_buildings_and_signs.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "277855097285c4824f7ed1ebbf1319ddf1ba9700364a338b6870fde81c44c54b"
+}

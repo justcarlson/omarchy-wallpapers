@@ -1,0 +1,27 @@
+{
+  "name": "Solitude - A Pink Flower on a Pond",
+  "palette": {
+    "colors": [
+      "#070b0a",
+      "#a5927f",
+      "#cbc3a3",
+      "#fff1cb",
+      "#967870",
+      "#c6a491",
+      "#dcdeb3",
+      "#afb2cb",
+      "#5c6461",
+      "#bfa78e",
+      "#e5dab0",
+      "#fff0c1",
+      "#b18b81",
+      "#e3b8a0",
+      "#f4f6c1",
+      "#fbf4ea"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/flowers/a_pink_flower_on_a_pond.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "390d63b4b89501c29eda3c4ba8a7946893075849d265b11a6c74050648dd7f10"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Catppuccin - Pixel Galaxy",
+  "palette": {
+    "colors": [
+      "#060613",
+      "#a48da3",
+      "#b2c3e5",
+      "#ffe2f9",
+      "#827b99",
+      "#b8a3c6",
+      "#cfd7ff",
+      "#e9dcd3",
+      "#5d5d64",
+      "#bea1bc",
+      "#c3daff",
+      "#ffdefa",
+      "#988fb4",
+      "#d1b6e4",
+      "#e4edff",
+      "#f8f3fd"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/7bfdf10d16ad3a689f9f0cf3a0930da3d1a245a8/pixel-galaxy.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "697710a870d246997c0edcd521b9d9e91467f10d5149c7b7b9fbefb724889e11"
+}

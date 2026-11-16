@@ -1,0 +1,28 @@
+{
+  "name": "Rose Pine - Sirmione",
+  "palette": {
+    "colors": [
+      "#f3e6cb",
+      "#795f20",
+      "#75631f",
+      "#7d6300",
+      "#5f5c9d",
+      "#805783",
+      "#635f9f",
+      "#020001",
+      "#7c7a73",
+      "#9f832d",
+      "#9a8729",
+      "#a38700",
+      "#827ccf",
+      "#a876af",
+      "#877fd1",
+      "#190c14"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Sirmione_MET_DT243228.jpg",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "d561a90f7bf67cb8425f2f9599cb8abf468ef50a9550d7b00d83d00f7a750dd3"
+}

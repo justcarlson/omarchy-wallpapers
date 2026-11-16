@@ -1,0 +1,27 @@
+{
+  "name": "Hackerman - Dark Forest",
+  "palette": {
+    "colors": [
+      "#060612",
+      "#9991ac",
+      "#a4c9e0",
+      "#c8fbff",
+      "#74809d",
+      "#a7a8cf",
+      "#badeff",
+      "#bde1d2",
+      "#5d5d63",
+      "#b0a5c8",
+      "#b1e1ff",
+      "#befdff",
+      "#8695b8",
+      "#bbbdef",
+      "#c9f6ff",
+      "#f1f5ff"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/7bfdf10d16ad3a689f9f0cf3a0930da3d1a245a8/dark-forest.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "cd562ac9672dde3c23f7cbf9f9a81be1eb7a4aee16f0fbdaae471921e118f95e"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Lumon - A Group of Flowers on a Black Background",
+  "palette": {
+    "colors": [
+      "#070f0e",
+      "#9790b4",
+      "#97cce5",
+      "#b8feff",
+      "#6d81a4",
+      "#a0a9da",
+      "#aae1ff",
+      "#e6f6ff",
+      "#606867",
+      "#aca4d2",
+      "#9fe5ff",
+      "#a8ffff",
+      "#7d96c2",
+      "#b3bdfc",
+      "#b5faff",
+      "#eff6ff"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/flowers/a_group_of_flowers_on_a_black_background.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "8b970c9f9904ba15a4321502d6b9519ff6ac15989ddb91ce95a438cfff4ae92a"
+}

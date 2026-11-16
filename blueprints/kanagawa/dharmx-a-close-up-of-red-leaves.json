@@ -1,0 +1,27 @@
+{
+  "name": "Kanagawa - A Close Up of Red Leaves",
+  "palette": {
+    "colors": [
+      "#0f151c",
+      "#cf655a",
+      "#2a8cc1",
+      "#e28661",
+      "#138bc0",
+      "#c7667e",
+      "#3eaae0",
+      "#e0c3a1",
+      "#6c7075",
+      "#ff8677",
+      "#4bb1f5",
+      "#ffa978",
+      "#3bb0f4",
+      "#f686a4",
+      "#5ed0ff",
+      "#fccd88"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/nature/a_close_up_of_red_leaves.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "ea18b09ac6c9e02f10beed4fbeeeb6568c5588f3c21e99dc89fbd7b699249690"
+}

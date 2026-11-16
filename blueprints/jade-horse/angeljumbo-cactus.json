@@ -1,0 +1,27 @@
+{
+  "name": "Jade Horse - Cactus",
+  "palette": {
+    "colors": [
+      "#060b0e",
+      "#949a7b",
+      "#aecdae",
+      "#defdd3",
+      "#618a80",
+      "#80b8b6",
+      "#b4e8ca",
+      "#f1fbd1",
+      "#5d6367",
+      "#a9b08a",
+      "#bee6be",
+      "#d9ffcc",
+      "#6ea195",
+      "#89d2cf",
+      "#c2ffdd",
+      "#eff8ef"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/AngelJumbo/gruvbox-wallpapers/6aa74cbd65973e1a2a8695e83a58ce3ea634dd5e/wallpapers/photography/cactus.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "a28d9939fa376b995201339a9a0e324bfa5d3281105324b2e4ce8f6c5d1557b3"
+}

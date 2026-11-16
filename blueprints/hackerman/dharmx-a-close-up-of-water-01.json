@@ -1,0 +1,27 @@
+{
+  "name": "Hackerman - A Close Up of Water 01",
+  "palette": {
+    "colors": [
+      "#000103",
+      "#8b91b0",
+      "#95cad6",
+      "#b9fcff",
+      "#64819b",
+      "#93aad1",
+      "#a4e1fc",
+      "#d0d8e7",
+      "#565a5f",
+      "#9fa6cd",
+      "#9ee3f3",
+      "#aeffff",
+      "#7397b6",
+      "#a3c0f2",
+      "#adfaff",
+      "#ecf7fe"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/aerial/a_close_up_of_water_01.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "37b91fdcb3c15dda5f3189bcde76003ed79a10d4c732ded256d62d519fcf8687"
+}

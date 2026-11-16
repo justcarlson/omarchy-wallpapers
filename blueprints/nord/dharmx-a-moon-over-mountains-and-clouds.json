@@ -1,0 +1,27 @@
+{
+  "name": "Nord - A Moon Over Mountains and Clouds",
+  "palette": {
+    "colors": [
+      "#040712",
+      "#9890b1",
+      "#9dcae3",
+      "#c0fdff",
+      "#7080a1",
+      "#a4a8d5",
+      "#b2e0ff",
+      "#87a9c6",
+      "#5c5e64",
+      "#aea4cd",
+      "#a7e3ff",
+      "#b2ffff",
+      "#8295be",
+      "#b7bdf6",
+      "#bff8ff",
+      "#f0f5ff"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/nord/a_moon_over_mountains_and_clouds.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "e8e60316672dcfda53db403194b87a1138231c7e789c252650cff4a3f0408a0a"
+}

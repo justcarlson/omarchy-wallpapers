@@ -1,0 +1,28 @@
+{
+  "name": "White - Sunset",
+  "palette": {
+    "colors": [
+      "#f6ebd7",
+      "#694725",
+      "#382700",
+      "#1a0200",
+      "#895347",
+      "#612a07",
+      "#201900",
+      "#020000",
+      "#817e78",
+      "#5a3100",
+      "#2a1300",
+      "#280400",
+      "#7a3b2e",
+      "#530d00",
+      "#1b1000",
+      "#050100"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Sunset_MET_DT235916.jpg",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "2fb9c579dced67552174c215728677eee5b832ac559c80f4aafbb6bb9e8a02db"
+}

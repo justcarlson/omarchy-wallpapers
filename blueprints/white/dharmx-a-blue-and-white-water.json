@@ -1,0 +1,28 @@
+{
+  "name": "White - A Blue and White Water",
+  "palette": {
+    "colors": [
+      "#fefefe",
+      "#52557d",
+      "#003a4a",
+      "#001422",
+      "#4d7297",
+      "#2c4372",
+      "#002344",
+      "#2a2b2e",
+      "#908e88",
+      "#3e406f",
+      "#00283d",
+      "#001a2c",
+      "#305e89",
+      "#142e68",
+      "#00133c",
+      "#000207"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/aerial/a_blue_and_white_water.jpg",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "38735db44f586e0c8f354600e5c440095da2949160464e9cd1fa2ab4f6d58263"
+}

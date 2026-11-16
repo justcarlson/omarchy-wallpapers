@@ -1,0 +1,28 @@
+{
+  "name": "White - A White Wall with a Blue Couch and a Lamp",
+  "palette": {
+    "colors": [
+      "#eaebea",
+      "#5c4f0b",
+      "#1f3100",
+      "#080b00",
+      "#2d734e",
+      "#593200",
+      "#002400",
+      "#2b2b28",
+      "#7a7f79",
+      "#4c3b00",
+      "#0c2000",
+      "#101500",
+      "#006136",
+      "#4b1a00",
+      "#001d00",
+      "#010200"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/interior/a_white_wall_with_a_blue_couch_and_a_lamp.jpg",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "c447ea18be4fb6da086f322588f310c321d141a423702d9dba5ff699b30d745a"
+}

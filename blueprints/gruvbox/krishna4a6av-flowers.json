@@ -1,0 +1,27 @@
+{
+  "name": "Gruvbox - Flowers",
+  "palette": {
+    "colors": [
+      "#070707",
+      "#c58468",
+      "#f0b770",
+      "#ffdf92",
+      "#b36670",
+      "#ee8d82",
+      "#ffd363",
+      "#edad97",
+      "#5f5d57",
+      "#e69472",
+      "#ffc969",
+      "#ffd975",
+      "#d47481",
+      "#ff998c",
+      "#ffe853",
+      "#fef2ed"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/krishna4a6av/Wallpapers/aa01193c864a1c175d3c44d1c0f4c4f62f3c61de/Gruvbox/flowers.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "2cd12b194f7e50553c585851ddd0a1e46c20ed8e8031988a19387ed5639477a6"
+}

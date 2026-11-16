@@ -1,0 +1,27 @@
+{
+  "name": "Tokyo Night - Boat Abondoned",
+  "palette": {
+    "colors": [
+      "#12112d",
+      "#fa404f",
+      "#5184d5",
+      "#ff7782",
+      "#5c7dda",
+      "#af64b8",
+      "#6fa2ff",
+      "#ecb8c3",
+      "#616268",
+      "#ff5f6d",
+      "#72a6ff",
+      "#ff94a2",
+      "#7e9eff",
+      "#db81ec",
+      "#91c5ff",
+      "#ffb9cf"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/krishna4a6av/Wallpapers/aa01193c864a1c175d3c44d1c0f4c4f62f3c61de/Catppuccin/boat-abondoned.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "37c7a46a671966589bfe20ec2186df6f66d4c7a37173f5f0c6138bb70225d43c"
+}

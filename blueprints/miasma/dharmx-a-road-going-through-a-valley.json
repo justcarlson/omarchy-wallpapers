@@ -1,0 +1,27 @@
+{
+  "name": "Miasma - A Road Going Through a Valley",
+  "palette": {
+    "colors": [
+      "#14150e",
+      "#8f7c53",
+      "#8a815e",
+      "#8e845c",
+      "#64889e",
+      "#5b8799",
+      "#8ab4c8",
+      "#c6cfd0",
+      "#6f7069",
+      "#b5a16a",
+      "#afa678",
+      "#b4aa74",
+      "#85adc9",
+      "#7bacc3",
+      "#a7d6ef",
+      "#b4e4ea"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/mountain/a_road_going_through_a_valley.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "107b5fadc845eb5d31a6a36994ee9254fd76ea97b18e2536a03df6cf8333f63c"
+}

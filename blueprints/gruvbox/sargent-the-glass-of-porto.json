@@ -1,0 +1,27 @@
+{
+  "name": "Gruvbox - The Glass of Porto",
+  "palette": {
+    "colors": [
+      "#0a0808",
+      "#c28661",
+      "#e8bb6c",
+      "#ffe48b",
+      "#b46766",
+      "#ed9076",
+      "#f8d863",
+      "#deb046",
+      "#655d5d",
+      "#e39769",
+      "#ffcf64",
+      "#ffe06b",
+      "#d57575",
+      "#ff9c7c",
+      "#ffef54",
+      "#fdf3eb"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/John_Singer_Sargent_-_Le_verre_de_porto_%28A_Dinner_Table_at_Night%29_-_Google_Art_Project.jpg/3840px-John_Singer_Sargent_-_Le_verre_de_porto_%28A_Dinner_Table_at_Night%29_-_Google_Art_Project.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "75111d081969fbedf8076f63a26583e86b8c3c9616db9d6cd119fdc1e35f1d23"
+}

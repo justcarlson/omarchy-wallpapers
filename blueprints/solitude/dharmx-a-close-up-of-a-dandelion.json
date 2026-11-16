@@ -1,0 +1,27 @@
+{
+  "name": "Solitude - A Close Up of a Dandelion",
+  "palette": {
+    "colors": [
+      "#000000",
+      "#939393",
+      "#bfbfbf",
+      "#eeeeee",
+      "#7d7d7d",
+      "#a9a9a9",
+      "#d7d7d7",
+      "#d8d8d8",
+      "#686163",
+      "#a5a5a5",
+      "#d3d3d3",
+      "#f5f5f5",
+      "#8f8f8f",
+      "#bcbcbc",
+      "#eaeaea",
+      "#fcfcfc"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/flowers/a_close_up_of_a_dandelion.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "bb9a000616a2c99893d662005d48618a8fb273825a13917cd99d610cbb267405"
+}

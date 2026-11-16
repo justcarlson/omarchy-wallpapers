@@ -1,0 +1,27 @@
+{
+  "name": "Lumon - A Close Up of Rocks",
+  "palette": {
+    "colors": [
+      "#01090e",
+      "#8897ac",
+      "#a3ccca",
+      "#ccfef6",
+      "#678692",
+      "#91b1c8",
+      "#afe5ed",
+      "#bfb6be",
+      "#585f63",
+      "#9aadc8",
+      "#afe6e3",
+      "#c2fff8",
+      "#769cac",
+      "#a0c8e6",
+      "#bbffff",
+      "#eaf8fb"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/mountain/a_close_up_of_rocks.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "ad846eb13081bfcd675e000ecb66a7a2cfe5cfc3e97eb9ce966f7e922ed6698f"
+}

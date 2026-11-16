@@ -1,0 +1,28 @@
+{
+  "name": "Catppuccin Latte - Cat in Clouds",
+  "palette": {
+    "colors": [
+      "#dfdad6",
+      "#46662f",
+      "#326600",
+      "#536300",
+      "#48588c",
+      "#4f5491",
+      "#205f80",
+      "#404057",
+      "#736e69",
+      "#648c40",
+      "#4e8d00",
+      "#738900",
+      "#6979bc",
+      "#7174c2",
+      "#4082ad",
+      "#61607e"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/7bfdf10d16ad3a689f9f0cf3a0930da3d1a245a8/cat-in-clouds.png",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "8b17ff33968511c9b9cefede82a7b526dd84258876d6c8f9c4d456273e88e765"
+}

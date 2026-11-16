@@ -1,0 +1,27 @@
+{
+  "name": "Tokyo Night - Plains of Heaven",
+  "palette": {
+    "colors": [
+      "#050706",
+      "#ab6a44",
+      "#867b06",
+      "#967e10",
+      "#5375cc",
+      "#4c76c3",
+      "#5979ac",
+      "#d6d5c0",
+      "#575e5a",
+      "#d78d5a",
+      "#aba100",
+      "#bda400",
+      "#7496ff",
+      "#6d98fa",
+      "#7a9cdd",
+      "#e6e5ad"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/John_Martin_-_The_Plains_of_Heaven_-_Google_Art_Project.jpg/1920px-John_Martin_-_The_Plains_of_Heaven_-_Google_Art_Project.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "7eff8b1b5ae8c7b6d69b3167587c81871c7eb2001f3ba6f1319053b9ceede916"
+}

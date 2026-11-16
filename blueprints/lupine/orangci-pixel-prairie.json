@@ -1,0 +1,28 @@
+{
+  "name": "Lupine - Pixel Prairie",
+  "palette": {
+    "colors": [
+      "#dad9d2",
+      "#575c7c",
+      "#535c8f",
+      "#55598c",
+      "#4e567b",
+      "#4c4d6c",
+      "#575589",
+      "#161824",
+      "#6e6d67",
+      "#797da7",
+      "#757dbf",
+      "#7779bb",
+      "#6f77a7",
+      "#6e6d96",
+      "#7a75b8",
+      "#333545"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/7bfdf10d16ad3a689f9f0cf3a0930da3d1a245a8/pixel-prairie.jpg",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "c8cc6899616ae6fe5bb638c6bee62e490a34411ed7c3358284089614de3a18c2"
+}

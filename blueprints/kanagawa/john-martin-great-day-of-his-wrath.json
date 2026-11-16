@@ -1,0 +1,27 @@
+{
+  "name": "Kanagawa - Great Day of His Wrath",
+  "palette": {
+    "colors": [
+      "#00070e",
+      "#b36a3a",
+      "#817a4a",
+      "#7b7b42",
+      "#649db3",
+      "#d6a68a",
+      "#77afc9",
+      "#e6dbd2",
+      "#646a6f",
+      "#df8d4d",
+      "#a69f5f",
+      "#9fa154",
+      "#84c3df",
+      "#f9c39f",
+      "#97d5f6",
+      "#ffe4c2"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/John_Martin_-_The_Great_Day_of_His_Wrath_-_Google_Art_Project.jpg/1920px-John_Martin_-_The_Great_Day_of_His_Wrath_-_Google_Art_Project.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "3753f601394f39f1a6c5b93a2cd5111b97cbdc488b96047e22c55ab2f72a8a4b"
+}

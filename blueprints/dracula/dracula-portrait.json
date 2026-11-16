@@ -1,0 +1,27 @@
+{
+  "name": "Dracula - Dracula Portrait",
+  "palette": {
+    "colors": [
+      "#060418",
+      "#b77da7",
+      "#fca1b5",
+      "#ffc9ee",
+      "#8c6dac",
+      "#cc8fd7",
+      "#d2c8ff",
+      "#eeeeee",
+      "#5c5c63",
+      "#d58dc1",
+      "#ffaec9",
+      "#ffc2f1",
+      "#a47ecc",
+      "#eb9df9",
+      "#e8daff",
+      "#faf2fc"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/aynp/dracula-wallpapers/b74123cab099b9fa6d83b5c2041a9030b58f3eb8/Art/4k/Dracula.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "fa464df90a81ec03a3a895efb8d021a0f0296e2e4947e730b42816383f2f2781"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Lumon - A Person on a Cliff",
+  "palette": {
+    "colors": [
+      "#0c0f12",
+      "#9694bd",
+      "#8fd1ea",
+      "#aeffff",
+      "#6885ac",
+      "#9cade4",
+      "#a0e7ff",
+      "#a6bfd8",
+      "#64686e",
+      "#aba8dc",
+      "#93ebff",
+      "#95ffff",
+      "#779bca",
+      "#adc2ff",
+      "#a4feff",
+      "#eef6ff"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/mountain/a_person_on_a_cliff.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "a3db02dd487837347b761390dbdcf3990e0496b40b6e30d9598c6535a9de13a2"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Catppuccin - Voxel Houses Monochrome",
+  "palette": {
+    "colors": [
+      "#070513",
+      "#9b8da3",
+      "#abc2dc",
+      "#d1f3ff",
+      "#797b95",
+      "#aca3c4",
+      "#c5d7fd",
+      "#e8d7d1",
+      "#5d5c63",
+      "#b3a1bc",
+      "#bbdafb",
+      "#cef8ff",
+      "#8d8faf",
+      "#c3b7e1",
+      "#d7eeff",
+      "#f4f4ff"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/7bfdf10d16ad3a689f9f0cf3a0930da3d1a245a8/voxel-houses-monochrome.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "61173493e86c532b881955e29590d70a9c9700d9c46159aad6969b5e9f5e36e9"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "White - A White Staircase with a Handrail",
+  "palette": {
+    "colors": [
+      "#ebebeb",
+      "#4f4f4f",
+      "#2a2a2a",
+      "#090909",
+      "#636363",
+      "#3c3c3c",
+      "#191919",
+      "#1b1b1b",
+      "#7f7d77",
+      "#3f3f3f",
+      "#1b1b1b",
+      "#020202",
+      "#525252",
+      "#2d2d2d",
+      "#0c0c0c",
+      "#000000"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/monochrome/a_white_staircase_with_a_handrail.jpg",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "b2ca15bdf23b1f0fefcad1ddc0ec66d608bb3e93f385ebb8628c7fa7a42c9362"
+}

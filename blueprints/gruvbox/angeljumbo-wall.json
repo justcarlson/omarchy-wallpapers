@@ -1,0 +1,27 @@
+{
+  "name": "Gruvbox - Wall",
+  "palette": {
+    "colors": [
+      "#070705",
+      "#9f917a",
+      "#c3c2a2",
+      "#f7f0c8",
+      "#71836d",
+      "#c0a38a",
+      "#d1ddb4",
+      "#ecdcc2",
+      "#5d5d57",
+      "#b8a68a",
+      "#dad9af",
+      "#fcf3c2",
+      "#839a7e",
+      "#dcb798",
+      "#e7f5c3",
+      "#f8f5ea"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/AngelJumbo/gruvbox-wallpapers/6aa74cbd65973e1a2a8695e83a58ce3ea634dd5e/wallpapers/mix/wall.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "03246dd45a5a411d61a7d1113fe311938339f08d26cd5b04ef1f53b670424a2c"
+}

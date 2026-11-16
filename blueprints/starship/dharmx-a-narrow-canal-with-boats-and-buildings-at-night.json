@@ -1,0 +1,27 @@
+{
+  "name": "Starship - A Narrow Canal with Boats and Buildings at Night",
+  "palette": {
+    "colors": [
+      "#0a0d10",
+      "#be895a",
+      "#dec06b",
+      "#ffea86",
+      "#b4685a",
+      "#ea9368",
+      "#e8df69",
+      "#ebd4b8",
+      "#61666b",
+      "#dd9b5f",
+      "#fcd662",
+      "#ffe863",
+      "#d57766",
+      "#ffa169",
+      "#fff75d",
+      "#fbf4ea"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/unsorted/a_narrow_canal_with_boats_and_buildings_at_night.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "18c0525d51e91e360bca3769e3b264abc789d9f238c259c800c0671f435a4d52"
+}

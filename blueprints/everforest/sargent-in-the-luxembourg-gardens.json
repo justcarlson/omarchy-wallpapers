@@ -1,0 +1,27 @@
+{
+  "name": "Everforest - In the Luxembourg Gardens",
+  "palette": {
+    "colors": [
+      "#061100",
+      "#b0936f",
+      "#d0c88f",
+      "#fff5b0",
+      "#728d62",
+      "#d7a27c",
+      "#dae69c",
+      "#e4d552",
+      "#646761",
+      "#cca879",
+      "#eadf94",
+      "#fff19b",
+      "#83a470",
+      "#f8b583",
+      "#eefca0",
+      "#f9f5ea"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/John_Singer_Sargent%2C_American_%28active_London%2C_Florence%2C_and_Paris%29_-_In_the_Luxembourg_Gardens_-_Google_Art_Project.jpg/3840px-John_Singer_Sargent%2C_American_%28active_London%2C_Florence%2C_and_Paris%29_-_In_the_Luxembourg_Gardens_-_Google_Art_Project.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "ad7bb8d1ccc6c1f66a465db9c72671cd8dea8aee4e935efd866e02f6e89c168d"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "White - A Body of Water with a White Sky",
+  "palette": {
+    "colors": [
+      "#f9f9f9",
+      "#575757",
+      "#303030",
+      "#0d0d0d",
+      "#6c6c6c",
+      "#434343",
+      "#1e1e1e",
+      "#1b1b1b",
+      "#8c8a83",
+      "#464646",
+      "#212121",
+      "#030303",
+      "#5b5b5b",
+      "#333333",
+      "#101010",
+      "#000000"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/monochrome/a_body_of_water_with_a_white_sky.jpg",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "20010c244f5496c2d3bf30edf4946b19e5aef032a8aabf17d595c792786c4743"
+}

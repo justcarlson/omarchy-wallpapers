@@ -1,0 +1,28 @@
+{
+  "name": "Catppuccin Latte - From Jerusalem",
+  "palette": {
+    "colors": [
+      "#d9cec1",
+      "#6b4d00",
+      "#6a4f00",
+      "#655200",
+      "#47508c",
+      "#64447f",
+      "#2d5186",
+      "#000100",
+      "#77736d",
+      "#917004",
+      "#8f7202",
+      "#897500",
+      "#6870bd",
+      "#8a62ae",
+      "#4c72b6",
+      "#0b1409"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/From_Jerusalem_MET_DT235915.jpg",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "4f2b5ac2057ca688f6a8eae29d95f8b03a45845b87d781bcf1e0fb6fa7cf9a50"
+}

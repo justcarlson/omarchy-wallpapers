@@ -1,0 +1,27 @@
+{
+  "name": "Dracula - Dracula Rainbow",
+  "palette": {
+    "colors": [
+      "#04050f",
+      "#fd5c54",
+      "#62fd2f",
+      "#effb57",
+      "#ff8d87",
+      "#cd504e",
+      "#9af38d",
+      "#f0fc77",
+      "#67696f",
+      "#ff7b6f",
+      "#64ff00",
+      "#ebfc00",
+      "#ffa69e",
+      "#fe706b",
+      "#8bff5f",
+      "#eafb00"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/aynp/dracula-wallpapers/b74123cab099b9fa6d83b5c2041a9030b58f3eb8/Art/4k/Rainbow%201.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "7b1a806beae998270d82d889dbb742c43ea96e93c02b03f0ba8e043cec7645bb"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Lupine - A Snow Covered Mountain Top",
+  "palette": {
+    "colors": [
+      "#dfeeff",
+      "#564571",
+      "#002e4f",
+      "#00092b",
+      "#516191",
+      "#38326c",
+      "#001449",
+      "#343764",
+      "#7a7e84",
+      "#453063",
+      "#001a45",
+      "#00123e",
+      "#3b4c84",
+      "#281a62",
+      "#00034a",
+      "#010108"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/cold/a_snow_covered_mountain_top.jpg",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "03f65102a52c342f579a0bc257ab26f10d1a7cc42c5e553fe63ec977014d44a4"
+}

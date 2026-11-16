@@ -1,0 +1,27 @@
+{
+  "name": "Starship - A Group of Pink Flowers on a Tree",
+  "palette": {
+    "colors": [
+      "#001018",
+      "#bf869b",
+      "#fdafaa",
+      "#ffd7dc",
+      "#9c72a0",
+      "#da96c4",
+      "#f0c9ff",
+      "#ffecf3",
+      "#61686b",
+      "#de96b1",
+      "#ffbeb8",
+      "#ffccd3",
+      "#b783bc",
+      "#fba5e0",
+      "#ffd9ff",
+      "#fdf1f8"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/flowers/a_group_of_pink_flowers_on_a_tree.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "4e6fba96c2030f55b317a031adbaa2c6cbf5dbed6902322d61a067d3144db603"
+}

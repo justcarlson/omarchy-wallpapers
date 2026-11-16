@@ -1,0 +1,27 @@
+{
+  "name": "Vantablack - A Car in a Parking Garage",
+  "palette": {
+    "colors": [
+      "#000000",
+      "#939393",
+      "#bfbfbf",
+      "#eeeeee",
+      "#7d7d7d",
+      "#a9a9a9",
+      "#d7d7d7",
+      "#ffffff",
+      "#686163",
+      "#a5a5a5",
+      "#d3d3d3",
+      "#f5f5f5",
+      "#8f8f8f",
+      "#bcbcbc",
+      "#eaeaea",
+      "#fcfcfc"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/monochrome/a_car_in_a_parking_garage.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "334d838dca15e03bb34a53163d0ab75c2437781d74049ee331447067e768ad81"
+}

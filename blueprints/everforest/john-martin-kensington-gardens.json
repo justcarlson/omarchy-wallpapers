@@ -1,0 +1,27 @@
+{
+  "name": "Everforest - Kensington Gardens",
+  "palette": {
+    "colors": [
+      "#090703",
+      "#a9926f",
+      "#c9c693",
+      "#fff3b5",
+      "#6e8965",
+      "#cfa27c",
+      "#d3e3a2",
+      "#eed4b2",
+      "#5f5d57",
+      "#c4a67b",
+      "#e1dd9a",
+      "#fff3a5",
+      "#7fa074",
+      "#eeb584",
+      "#e8fcab",
+      "#f8f5ea"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/John_Martin_-_Kensington_Gardens_-_Google_Art_Project_%282334653%29.jpg/3840px-John_Martin_-_Kensington_Gardens_-_Google_Art_Project_%282334653%29.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "e78b2ad5f381dddbc6547a0d452ab6b6375ecb7e7851594b960a86b782e3e012"
+}

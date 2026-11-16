@@ -1,0 +1,27 @@
+{
+  "name": "Dracula - Dracula Protruding Squares",
+  "palette": {
+    "colors": [
+      "#06070d",
+      "#9c90a7",
+      "#acc7de",
+      "#d2f8ff",
+      "#7a7e99",
+      "#aca7c9",
+      "#c4dcff",
+      "#f1f3ff",
+      "#5c5d64",
+      "#b3a4c1",
+      "#bbdefd",
+      "#caf9ff",
+      "#8d93b3",
+      "#c2bce6",
+      "#d6f3ff",
+      "#f3f4ff"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/aynp/dracula-wallpapers/b74123cab099b9fa6d83b5c2041a9030b58f3eb8/Art/4k/Protruding%20Squares.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "d2670876d03130410aed4d43a6e7a5708b1a29cc4eecd15105c8664aba0fde61"
+}

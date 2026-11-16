@@ -1,0 +1,27 @@
+{
+  "name": "Tokyo Night - Bay",
+  "palette": {
+    "colors": [
+      "#0f0d13",
+      "#a6756c",
+      "#d29e91",
+      "#b98578",
+      "#7a7ba7",
+      "#967996",
+      "#7c7a9c",
+      "#ffe6d7",
+      "#68666c",
+      "#d0988c",
+      "#f9bead",
+      "#e4a998",
+      "#9e9dd6",
+      "#be9bc1",
+      "#a19dc9",
+      "#ffdfba"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/rose-pine/wallpapers/ee39a37b24ab7700cc4d52f50b01a5d13df6a865/photography/kainoa-kanter/bay.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "60b1ec8fd48ab89370898c42439cc50eb7447d34841fcf6e7bde7206f419f8c2"
+}

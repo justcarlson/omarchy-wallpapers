@@ -1,0 +1,27 @@
+{
+  "name": "Retro 82 - A Person Holding a Jar with Lights",
+  "palette": {
+    "colors": [
+      "#0b030b",
+      "#b45f57",
+      "#e77800",
+      "#ffad25",
+      "#577fac",
+      "#b46863",
+      "#3084ac",
+      "#f8dccd",
+      "#6c676c",
+      "#e28075",
+      "#ff9b00",
+      "#ffb300",
+      "#78a2dc",
+      "#e18982",
+      "#50a9dc",
+      "#ffdeba"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/lightbulb/a_person_holding_a_jar_with_lights.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "5b6fa3f8abb53183325ac6bc4c0a1ab1b84aa6e4c67541fc764f1eac6035b778"
+}

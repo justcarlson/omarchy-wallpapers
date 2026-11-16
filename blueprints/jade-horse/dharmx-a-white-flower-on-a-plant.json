@@ -1,0 +1,27 @@
+{
+  "name": "Jade Horse - A White Flower on a Plant",
+  "palette": {
+    "colors": [
+      "#070707",
+      "#8f9a83",
+      "#adccb7",
+      "#dafcdf",
+      "#658885",
+      "#89b5ba",
+      "#b6e7d5",
+      "#dce0e1",
+      "#5f5d57",
+      "#a3b194",
+      "#bce5cb",
+      "#d5ffdb",
+      "#739f9b",
+      "#94ced4",
+      "#c4ffeb",
+      "#edf8f2"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/flowers/a_white_flower_on_a_plant.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "5b5e5e08ee2fcd3439bca9d1b9b4bcebab9f00fd6246f6c6148f83f5de6c2df6"
+}

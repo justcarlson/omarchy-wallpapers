@@ -1,0 +1,27 @@
+{
+  "name": "Vantablack - A White Lines on a Black Background",
+  "palette": {
+    "colors": [
+      "#000000",
+      "#939393",
+      "#bfbfbf",
+      "#eeeeee",
+      "#7d7d7d",
+      "#a9a9a9",
+      "#d7d7d7",
+      "#d7d7d7",
+      "#686163",
+      "#a5a5a5",
+      "#d3d3d3",
+      "#f5f5f5",
+      "#8f8f8f",
+      "#bcbcbc",
+      "#eaeaea",
+      "#fcfcfc"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/abstract/a_white_lines_on_a_black_background.jpeg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "58985ae86c4fc42edc5b9b900728b65703b48103e489fbe25ff362a85db7891c"
+}

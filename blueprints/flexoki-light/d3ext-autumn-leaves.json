@@ -1,0 +1,28 @@
+{
+  "name": "Flexoki Light - Autumn Leaves",
+  "palette": {
+    "colors": [
+      "#d9d2bf",
+      "#a72a23",
+      "#505b00",
+      "#575a00",
+      "#96274d",
+      "#781255",
+      "#575b00",
+      "#030001",
+      "#78766f",
+      "#d74a3e",
+      "#708000",
+      "#787f00",
+      "#c54571",
+      "#a4317e",
+      "#788000",
+      "#1c0d14"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/e34f05935c5b768f4c016b0893924d18ec1dba61/images/autumn_leaves.jpg",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "0da59926d3f630f30ac98d3179268ecb7b16f0058caa1af1406f58433de1d97a"
+}

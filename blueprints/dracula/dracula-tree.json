@@ -1,0 +1,27 @@
+{
+  "name": "Dracula - Dracula Tree",
+  "palette": {
+    "colors": [
+      "#04050f",
+      "#eb9eff",
+      "#6bb3ff",
+      "#a0ebff",
+      "#4f79e6",
+      "#ffc0ff",
+      "#4288e7",
+      "#fefdc1",
+      "#67696f",
+      "#ff99ff",
+      "#86d2ff",
+      "#84feff",
+      "#7199ff",
+      "#ffc1ff",
+      "#63aaff",
+      "#f2f289"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/aynp/dracula-wallpapers/b74123cab099b9fa6d83b5c2041a9030b58f3eb8/Art/4k/Tree.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "9dbe80aa4c11df142deeda598454b61ee26813aac53ea02d78beef07cda96731"
+}

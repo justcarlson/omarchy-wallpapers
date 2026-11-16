@@ -1,0 +1,27 @@
+{
+  "name": "Hackerman - Dark Star",
+  "palette": {
+    "colors": [
+      "#050410",
+      "#ee90af",
+      "#95d5ed",
+      "#ffabcd",
+      "#94ace4",
+      "#b786a5",
+      "#aaf4fa",
+      "#d1dbd9",
+      "#68686e",
+      "#ffaad1",
+      "#7de6ff",
+      "#ffaae0",
+      "#b3cbff",
+      "#e2a8d0",
+      "#84ffff",
+      "#c1f1e8"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/7bfdf10d16ad3a689f9f0cf3a0930da3d1a245a8/dark-star.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "09e4a285589eb2cdc82f23888ce9819ad0965ded10228f64192a42a87870c562"
+}

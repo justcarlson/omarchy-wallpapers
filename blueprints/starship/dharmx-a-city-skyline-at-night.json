@@ -1,0 +1,27 @@
+{
+  "name": "Starship - A City Skyline at Night",
+  "palette": {
+    "colors": [
+      "#02080f",
+      "#b68792",
+      "#eeb2a6",
+      "#ffdcd6",
+      "#987292",
+      "#d298b6",
+      "#f0c9ff",
+      "#f0e7f1",
+      "#595e63",
+      "#d399a7",
+      "#ffc3b4",
+      "#ffd7cf",
+      "#b284ab",
+      "#f2a8ce",
+      "#ffdbff",
+      "#fef1f6"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/architecture/a_city_skyline_at_night.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "efa8d353bd5f13799b2fa714021c6eec43d3ff2343e2848f296f205d2f0c3376"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Starship - At Chioggia",
+  "palette": {
+    "colors": [
+      "#0e0502",
+      "#b38a5f",
+      "#d2c078",
+      "#ffeb96",
+      "#a96b5a",
+      "#dd966c",
+      "#dcde7e",
+      "#dcd1b4",
+      "#625c58",
+      "#d09d67",
+      "#eed676",
+      "#ffed7f",
+      "#c87b66",
+      "#ffa670",
+      "#f5f67c",
+      "#faf4ea"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/John_S._Sargent_-_At_Chioggia_%28c._1903%29_-_Mint_Museum.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "7680457051396dc940abe29178da3150dd3316d35705db8ba5ac598bf28ba7f7"
+}

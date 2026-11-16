@@ -1,0 +1,27 @@
+{
+  "name": "Nord - A View of a City From a Window",
+  "palette": {
+    "colors": [
+      "#030510",
+      "#c47a6b",
+      "#ffb591",
+      "#ffd3ab",
+      "#6176b0",
+      "#af6d74",
+      "#698dbe",
+      "#eaddb9",
+      "#67686f",
+      "#f19d89",
+      "#ffb97d",
+      "#ffdb92",
+      "#8398e3",
+      "#db8e97",
+      "#8bb1f0",
+      "#ffeaa0"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/nord/a_view_of_a_city_from_a_window.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "a2a9a9f119c93a92ee26f873e35c9f84a29c5d2dcd6950911175b8ed35ec624c"
+}

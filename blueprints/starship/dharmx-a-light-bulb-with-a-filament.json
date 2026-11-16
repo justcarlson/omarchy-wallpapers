@@ -1,0 +1,27 @@
+{
+  "name": "Starship - A Light Bulb with a Filament",
+  "palette": {
+    "colors": [
+      "#06070a",
+      "#bf895b",
+      "#e0bf6b",
+      "#ffe987",
+      "#b4685d",
+      "#eb926b",
+      "#ebde67",
+      "#fef7ed",
+      "#5b5d63",
+      "#de9b61",
+      "#ffd462",
+      "#ffe664",
+      "#d57769",
+      "#ffa06d",
+      "#fff55a",
+      "#fcf4ea"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/lightbulb/a_light_bulb_with_a_filament.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "71c60e8b3ede2370a97a6aa4b30947de4e7b3f5551de73533c38e2e202125b31"
+}

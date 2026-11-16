@@ -1,0 +1,27 @@
+{
+  "name": "Lumon - A Fog Over Water with a Black Background",
+  "palette": {
+    "colors": [
+      "#070708",
+      "#8c94b8",
+      "#8fcfdc",
+      "#b1ffff",
+      "#6185a2",
+      "#91addb",
+      "#9be6ff",
+      "#d0d7db",
+      "#5d5d63",
+      "#9fa9d6",
+      "#94e9fa",
+      "#9effff",
+      "#6e9bbf",
+      "#9fc4fe",
+      "#a1ffff",
+      "#ecf7fe"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/nature/a_fog_over_water_with_a_black_background.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "8f42917ca2cbc3b7a5baf1c87d4ca9a2fd20a4ef01c574b4fe6df9c6749e3e31"
+}

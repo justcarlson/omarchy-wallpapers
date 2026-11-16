@@ -1,0 +1,27 @@
+{
+  "name": "Jade Horse - A Close Up of Pink Flowers",
+  "palette": {
+    "colors": [
+      "#111312",
+      "#b98d7e",
+      "#e5be95",
+      "#ffe9bc",
+      "#a5737b",
+      "#dc9d97",
+      "#fbd999",
+      "#d7c1bd",
+      "#686f6b",
+      "#d6a08d",
+      "#ffd29c",
+      "#ffe3ab",
+      "#c2858e",
+      "#feada7",
+      "#ffec9b",
+      "#fff2ed"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/flowers/a_close_up_of_pink_flowers.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "6e966579dd625d2ba960cd515fdd563e3bfa65bc6a27e5bfb522901b792d8ed4"
+}

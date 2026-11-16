@@ -1,0 +1,27 @@
+{
+  "name": "Dracula - Galaxy",
+  "palette": {
+    "colors": [
+      "#060612",
+      "#b88a79",
+      "#e4ba8e",
+      "#ffe5b5",
+      "#a46f77",
+      "#db9892",
+      "#f9d590",
+      "#fafafa",
+      "#5d5d63",
+      "#d59c87",
+      "#ffce94",
+      "#ffe1a5",
+      "#c2808a",
+      "#fea8a1",
+      "#ffea93",
+      "#fef2ed"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dracula/wallpaper/f2b8cc4223bcc2dfd5f165ab80f701bbb84e3303/second-collection/illustrations/galaxy/dracula-galaxy-282a36.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "fa6db40ade50a04def49656fe273747ca96e0428ce20bd4b423413392617b3b2"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Nord - A Video Game Screen Capture",
+  "palette": {
+    "colors": [
+      "#030510",
+      "#c7786e",
+      "#e5a388",
+      "#ffc0a2",
+      "#667db4",
+      "#cb888e",
+      "#7091c2",
+      "#e3ca8e",
+      "#67686f",
+      "#f59a8d",
+      "#ffbe9b",
+      "#ffc590",
+      "#88a0e6",
+      "#f8abb2",
+      "#92b5f4",
+      "#f9d76a"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/nord/a_video_game_screen_capture.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "7ad64ec861530fb18fdaa2dc63898b4f58e49256b35c9c81125c335c6ea91a9f"
+}

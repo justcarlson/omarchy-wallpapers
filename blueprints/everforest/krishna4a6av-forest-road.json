@@ -1,0 +1,27 @@
+{
+  "name": "Everforest - Forest Road",
+  "palette": {
+    "colors": [
+      "#04070e",
+      "#b28b51",
+      "#cbc36c",
+      "#ffef84",
+      "#608b4e",
+      "#e09656",
+      "#cee473",
+      "#d7dbd7",
+      "#5a5d63",
+      "#d09e53",
+      "#e5db64",
+      "#fff265",
+      "#6ea357",
+      "#ffa650",
+      "#e3fd6e",
+      "#f9f5ea"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/krishna4a6av/Wallpapers/aa01193c864a1c175d3c44d1c0f4c4f62f3c61de/Everforest/forest_road.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "e6c432cad0ece054c543bf6ad5f882c9da3939d09d386fe53d78176670139edf"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Kanagawa - An Artist in His Studio",
+  "palette": {
+    "colors": [
+      "#110304",
+      "#af8b64",
+      "#cfc080",
+      "#ffec9f",
+      "#a56d5c",
+      "#d79971",
+      "#d9de89",
+      "#e1d9cd",
+      "#635b5b",
+      "#cb9f6d",
+      "#ead781",
+      "#ffef8d",
+      "#c37e69",
+      "#faaa76",
+      "#f1f78b",
+      "#faf4ea"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/John_Singer_Sargent_-_An_Artist_in_His_Studio_-_Google_Art_Project.jpg/3840px-John_Singer_Sargent_-_An_Artist_in_His_Studio_-_Google_Art_Project.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "f15d26cebf2a22a1db3fa3c4d155e0f29bbaa1cf8973ba9e34692c3036774c70"
+}

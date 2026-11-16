@@ -1,0 +1,27 @@
+{
+  "name": "Gruvbox - Rails",
+  "palette": {
+    "colors": [
+      "#000f11",
+      "#a0706e",
+      "#748866",
+      "#a5a783",
+      "#987074",
+      "#9a7277",
+      "#6e835f",
+      "#c2b9a3",
+      "#5e6667",
+      "#ca9290",
+      "#96ae81",
+      "#cbce9f",
+      "#c19297",
+      "#c3949b",
+      "#90a979",
+      "#d8c68e"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/AngelJumbo/gruvbox-wallpapers/6aa74cbd65973e1a2a8695e83a58ce3ea634dd5e/wallpapers/photography/rails.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "e2d1fd6087e5a09f93c3415dd62294160fb7740ab7f0c32cf6a6b85fb9900142"
+}

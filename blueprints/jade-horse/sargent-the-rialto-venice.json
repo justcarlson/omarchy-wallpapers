@@ -1,0 +1,27 @@
+{
+  "name": "Jade Horse - The Rialto Venice",
+  "palette": {
+    "colors": [
+      "#0e1109",
+      "#b59355",
+      "#cacd76",
+      "#fff98d",
+      "#5e925a",
+      "#e39f57",
+      "#caed82",
+      "#e5d57b",
+      "#686a64",
+      "#d1a758",
+      "#e2e570",
+      "#fff669",
+      "#6aab65",
+      "#ffb04e",
+      "#daff7d",
+      "#f7f6ea"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/John_Singer_Sargent_-_The_Rialto%2C_Venice_%281911%29.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "625be90a029525bb00e5b640da5c4ea6a61c35351f12354cefdef656e1186bdd"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Gruvbox - Belshazzars Feast",
+  "palette": {
+    "colors": [
+      "#090707",
+      "#b98b68",
+      "#ddbf7e",
+      "#ffea9e",
+      "#ac6d65",
+      "#e1977a",
+      "#ebdd80",
+      "#cfb478",
+      "#645c5c",
+      "#d79d71",
+      "#fbd57d",
+      "#ffe886",
+      "#cb7d74",
+      "#ffa781",
+      "#fff47e",
+      "#fcf4eb"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/John_Martin_-_Belshazzar%27s_Feast_-_Google_Art_Project.jpg/3840px-John_Martin_-_Belshazzar%27s_Feast_-_Google_Art_Project.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "860ae5356474a348eb59826df660567192f68eadf20361bdca7ccf5fccd4bc03"
+}

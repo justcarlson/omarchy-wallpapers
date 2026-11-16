@@ -1,0 +1,27 @@
+{
+  "name": "Starship - A Person Standing on a Street at Night",
+  "palette": {
+    "colors": [
+      "#040e10",
+      "#9891aa",
+      "#a8c8dc",
+      "#cefaff",
+      "#758099",
+      "#a7a9ca",
+      "#bedefe",
+      "#f4f4fb",
+      "#5e6668",
+      "#afa6c4",
+      "#b6e0f9",
+      "#c5fbff",
+      "#8895b4",
+      "#bcbee9",
+      "#cef6ff",
+      "#f1f5ff"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/chillop/a_person_standing_on_a_street_at_night.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "63a47d946bfc5254cd6c7fca3e6902b3bc050c758c4f464f46632bca3bd02f40"
+}

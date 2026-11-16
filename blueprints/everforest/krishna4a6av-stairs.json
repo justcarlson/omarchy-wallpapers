@@ -1,0 +1,27 @@
+{
+  "name": "Everforest - Stairs",
+  "palette": {
+    "colors": [
+      "#02090b",
+      "#999970",
+      "#afcea1",
+      "#e1fdc3",
+      "#598d79",
+      "#bdab74",
+      "#b0ebbc",
+      "#b8c8bd",
+      "#585f61",
+      "#afaf7c",
+      "#bfe7ad",
+      "#ddffb7",
+      "#64a58d",
+      "#d8c179",
+      "#bcffcc",
+      "#f1f8ee"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/krishna4a6av/Wallpapers/aa01193c864a1c175d3c44d1c0f4c4f62f3c61de/Everforest/stairs.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "c4d2f52ffe4182e36a6a9a1a12a34a8fcb0d3ec6d0c4e96db229188d5ac1a27b"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Lupine - Sakura Trees Over River",
+  "palette": {
+    "colors": [
+      "#e2d7d7",
+      "#7e4f5c",
+      "#3f637f",
+      "#784f5b",
+      "#515a87",
+      "#6d4e75",
+      "#3d5988",
+      "#000005",
+      "#746c6c",
+      "#a66f80",
+      "#5e86aa",
+      "#a06f7f",
+      "#737bb5",
+      "#936da0",
+      "#5d7ab7",
+      "#070f22"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/7bfdf10d16ad3a689f9f0cf3a0930da3d1a245a8/sakura-trees-over-river.jpg",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "9045a359d277c4f06f2bcef44d3f5bc3e53d25a4d8afcf920390c80c67b45277"
+}

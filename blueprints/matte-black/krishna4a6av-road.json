@@ -1,0 +1,27 @@
+{
+  "name": "Matte Black - Road",
+  "palette": {
+    "colors": [
+      "#060808",
+      "#c5836a",
+      "#f1b671",
+      "#ffde94",
+      "#b36673",
+      "#ee8d85",
+      "#ffd163",
+      "#f5d3ab",
+      "#586060",
+      "#e69374",
+      "#ffc86b",
+      "#ffd878",
+      "#d37484",
+      "#ff9990",
+      "#ffe654",
+      "#fef2ed"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/krishna4a6av/Wallpapers/aa01193c864a1c175d3c44d1c0f4c4f62f3c61de/Graphite/road.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "924a4a059c7b961800886dc9d8783bc8a334835ca66709872229f3271c5ca6be"
+}

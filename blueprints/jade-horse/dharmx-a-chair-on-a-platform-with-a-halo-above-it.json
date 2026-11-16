@@ -1,0 +1,27 @@
+{
+  "name": "Jade Horse - A Chair on a Platform with a Halo Above It",
+  "palette": {
+    "colors": [
+      "#050e0f",
+      "#8a95b3",
+      "#97ced5",
+      "#bcffff",
+      "#63859c",
+      "#91afd3",
+      "#a4e6fc",
+      "#eff0f1",
+      "#5e6667",
+      "#9daad0",
+      "#9fe8f1",
+      "#adffff",
+      "#719bb8",
+      "#a0c5f4",
+      "#acffff",
+      "#ebf7fd"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/abstract/a_chair_on_a_platform_with_a_halo_above_it.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "df2a173d222f527862688020bb19bd6e80591739209d831f55e5d3159d263b99"
+}

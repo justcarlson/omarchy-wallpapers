@@ -1,0 +1,27 @@
+{
+  "name": "Everforest - A Bouquet of Flowers and Leaves",
+  "palette": {
+    "colors": [
+      "#060808",
+      "#c2837c",
+      "#f4b286",
+      "#ffdbae",
+      "#aa6a82",
+      "#e6909c",
+      "#ffcb7d",
+      "#b0aea7",
+      "#586060",
+      "#e2948b",
+      "#ffc389",
+      "#ffd49d",
+      "#c87998",
+      "#ff9dad",
+      "#ffde7a",
+      "#fff2f0"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/flowers/a_bouquet_of_flowers_and_leaves.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "d6e6e0d904a7f8605c509ba48202c20fb930935fe22466c3125d76a7ea33fc62"
+}

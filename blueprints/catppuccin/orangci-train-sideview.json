@@ -1,0 +1,27 @@
+{
+  "name": "Catppuccin - Train Sideview",
+  "palette": {
+    "colors": [
+      "#050410",
+      "#b5b6f0",
+      "#d4d6ff",
+      "#e0dfff",
+      "#797aa7",
+      "#9495bf",
+      "#a6a3da",
+      "#dbdebc",
+      "#68686e",
+      "#c1bcff",
+      "#dfdeff",
+      "#e8e2ff",
+      "#9d9cd6",
+      "#bab9ef",
+      "#c9c3ff",
+      "#e8efa7"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/7bfdf10d16ad3a689f9f0cf3a0930da3d1a245a8/train-sideview.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "c0b484344a252b60181415cfcaf25de920f0cae63ed61a35a67973b1475a2b2d"
+}

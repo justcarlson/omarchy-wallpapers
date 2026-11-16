@@ -1,0 +1,28 @@
+{
+  "name": "White - A Large Rock in the Ocean",
+  "palette": {
+    "colors": [
+      "#f2f2f2",
+      "#525252",
+      "#2c2c2c",
+      "#0b0b0b",
+      "#666666",
+      "#3f3f3f",
+      "#1b1b1b",
+      "#1b1b1b",
+      "#86837d",
+      "#424242",
+      "#1e1e1e",
+      "#020202",
+      "#555555",
+      "#2f2f2f",
+      "#0e0e0e",
+      "#000000"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/monochrome/a_large_rock_in_the_ocean.jpg",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "1699855fd197a0dbd12482624c8a22957cb8567efd20854e4a9d2112dfefc900"
+}

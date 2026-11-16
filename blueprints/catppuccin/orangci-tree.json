@@ -1,0 +1,27 @@
+{
+  "name": "Catppuccin - Tree",
+  "palette": {
+    "colors": [
+      "#04050f",
+      "#b3b7f8",
+      "#d8dbff",
+      "#dfe1ff",
+      "#8aa6e1",
+      "#878bc8",
+      "#aebfff",
+      "#eabab5",
+      "#67696f",
+      "#bebdff",
+      "#e2e3ff",
+      "#e4e4ff",
+      "#acc9ff",
+      "#acadfc",
+      "#b5c7ff",
+      "#ffbcb3"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/7bfdf10d16ad3a689f9f0cf3a0930da3d1a245a8/tree.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "7bc740e5d960a030e3ede51012ff20a3a0da1e469eab0a7282d53ac2200609c9"
+}

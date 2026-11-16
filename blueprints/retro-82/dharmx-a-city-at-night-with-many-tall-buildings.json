@@ -1,0 +1,27 @@
+{
+  "name": "Retro 82 - A City at Night with Many Tall Buildings",
+  "palette": {
+    "colors": [
+      "#00080b",
+      "#008fbf",
+      "#4f8395",
+      "#4487a3",
+      "#5a8ba0",
+      "#4a839b",
+      "#4e8295",
+      "#dbd0e4",
+      "#565d5f",
+      "#34b4f2",
+      "#6ea8bf",
+      "#63acd0",
+      "#7ab0cb",
+      "#69a8c7",
+      "#6da7c0",
+      "#f0d6ff"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/architecture/a_city_at_night_with_many_tall_buildings.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "544c5a8d83c439fcdda97d55f923c22ca930abe871abb5028fcd6ca1dde52078"
+}

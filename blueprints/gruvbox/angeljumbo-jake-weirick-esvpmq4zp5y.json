@@ -1,0 +1,27 @@
+{
+  "name": "Gruvbox - Jake Weirick Esvpmq4zp5y",
+  "palette": {
+    "colors": [
+      "#010709",
+      "#ad6f45",
+      "#d8a26c",
+      "#cd8b2e",
+      "#5ec0d3",
+      "#b06e3b",
+      "#8deeff",
+      "#bbd8dc",
+      "#636a6c",
+      "#d8925a",
+      "#fdc27a",
+      "#fab02d",
+      "#74e1f9",
+      "#dc914d",
+      "#66ffff",
+      "#a6edf8"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/AngelJumbo/gruvbox-wallpapers/6aa74cbd65973e1a2a8695e83a58ce3ea634dd5e/wallpapers/photography/jake-weirick-EsvpmQ4zp5Y.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "dd3a0a8a8e76e6c7a4235e14c35507a981dcf309865d18f841d51e313f126752"
+}

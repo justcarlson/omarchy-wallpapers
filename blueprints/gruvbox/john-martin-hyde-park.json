@@ -1,0 +1,27 @@
+{
+  "name": "Gruvbox - Hyde Park",
+  "palette": {
+    "colors": [
+      "#0c0601",
+      "#a99273",
+      "#cac597",
+      "#fff2ba",
+      "#728866",
+      "#cda282",
+      "#d6e1a6",
+      "#c8bda8",
+      "#605d57",
+      "#c3a680",
+      "#e3dca0",
+      "#fff2ac",
+      "#839f75",
+      "#ecb58c",
+      "#ecfab0",
+      "#f9f5ea"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/John_Martin_-_Hyde_Park_-_Google_Art_Project.jpg/3840px-John_Martin_-_Hyde_Park_-_Google_Art_Project.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "92bd9c3cd1dede83e866a9d05e1fa6fdcaf6a8bcdab8dc24b87247edbd2d4f46"
+}

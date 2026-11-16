@@ -1,0 +1,27 @@
+{
+  "name": "Dracula - Spooky Minimal",
+  "palette": {
+    "colors": [
+      "#080414",
+      "#a983af",
+      "#9ac2fc",
+      "#ffd1ff",
+      "#7d74ad",
+      "#b898dc",
+      "#bbd2ff",
+      "#f5efff",
+      "#5d5c62",
+      "#c495cc",
+      "#a4d9ff",
+      "#ffcdff",
+      "#9287cc",
+      "#d3a9ff",
+      "#cce8ff",
+      "#f6f3fe"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dracula/wallpaper/f2b8cc4223bcc2dfd5f165ab80f701bbb84e3303/second-collection/spooky-minimal/dracula-spooky-44475a.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "c891a876601b6237b60318cb5f3c601a103ed414e5b8cc7cc305a4806d8ef677"
+}

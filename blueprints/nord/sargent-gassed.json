@@ -1,0 +1,27 @@
+{
+  "name": "Nord - Gassed",
+  "palette": {
+    "colors": [
+      "#100500",
+      "#b08f6d",
+      "#d2c38b",
+      "#ffefac",
+      "#a57264",
+      "#d79d7d",
+      "#dfe095",
+      "#c9b791",
+      "#625d58",
+      "#cca278",
+      "#eed98f",
+      "#ffee9a",
+      "#c28373",
+      "#f8af85",
+      "#f8f89a",
+      "#fbf4ea"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/John_Singer_Sargent_-_Gassed_%281919%29.jpg/3840px-John_Singer_Sargent_-_Gassed_%281919%29.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "9d9da62efe7f01071b579784d087a03c303ddcb18c24ecc31c3fba954a2353c0"
+}

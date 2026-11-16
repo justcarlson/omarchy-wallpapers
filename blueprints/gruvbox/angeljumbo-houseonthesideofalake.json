@@ -1,0 +1,27 @@
+{
+  "name": "Gruvbox - Houseonthesideofalake",
+  "palette": {
+    "colors": [
+      "#060708",
+      "#b18a6c",
+      "#d5bd85",
+      "#ffe8a8",
+      "#a36d66",
+      "#d7987e",
+      "#e4d98c",
+      "#d1cfcd",
+      "#595d62",
+      "#ce9d77",
+      "#f2d289",
+      "#ffea98",
+      "#c17e76",
+      "#f9a888",
+      "#fff18f",
+      "#fcf4eb"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/AngelJumbo/gruvbox-wallpapers/6aa74cbd65973e1a2a8695e83a58ce3ea634dd5e/wallpapers/photography/houseonthesideofalake.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "a1b288e2a66fb9ca20a910a5e7597057d5fc49168ca9c6c1c1631f73d4eea48a"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Solitude - Plants Leaves in the Water",
+  "palette": {
+    "colors": [
+      "#090f11",
+      "#a07b5c",
+      "#a5875f",
+      "#b59865",
+      "#6891ad",
+      "#98c2e0",
+      "#5f86a5",
+      "#cbbdb6",
+      "#61686b",
+      "#c99f76",
+      "#cdac77",
+      "#debe7a",
+      "#89b6da",
+      "#8cd1ff",
+      "#80aad2",
+      "#edc3aa"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/nature/plants_leaves_in_the_water.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "72634257c3186c5b588db25415f25c78b78cd5a73b58f858bd84c309f34081a1"
+}

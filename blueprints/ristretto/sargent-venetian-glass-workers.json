@@ -1,0 +1,27 @@
+{
+  "name": "Ristretto - Venetian Glass Workers",
+  "palette": {
+    "colors": [
+      "#070707",
+      "#a79279",
+      "#cac49e",
+      "#fff2c3",
+      "#9a776b",
+      "#c9a38a",
+      "#d9e0ad",
+      "#bcbca6",
+      "#5f5d57",
+      "#c1a788",
+      "#e3dba9",
+      "#fff1b8",
+      "#b58a7b",
+      "#e7b796",
+      "#f0f8b9",
+      "#faf5ea"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/John_Singer_Sargent_-_Venetian_Glass_Workers_-_Google_Art_Project.jpg/3840px-John_Singer_Sargent_-_Venetian_Glass_Workers_-_Google_Art_Project.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "f6333dd9f187aef5b19c904b7f3e9d516cde971ae81d39d5afd7862dd39dddfa"
+}

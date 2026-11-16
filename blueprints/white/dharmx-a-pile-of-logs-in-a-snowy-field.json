@@ -1,0 +1,28 @@
+{
+  "name": "White - A Pile of Logs in a Snowy Field",
+  "palette": {
+    "colors": [
+      "#ffffff",
+      "#936641",
+      "#2f1500",
+      "#3f2401",
+      "#587098",
+      "#62759e",
+      "#57779b",
+      "#000000",
+      "#918f88",
+      "#bc8958",
+      "#513213",
+      "#624315",
+      "#7993c6",
+      "#8498cd",
+      "#789ac9",
+      "#060606"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/nature/a_pile_of_logs_in_a_snowy_field.jpg",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "f2868aad3a75ed42289467b969b37348c8ad49727db93e830023f4684ac10df6"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Ristretto - El Jaleo",
+  "palette": {
+    "colors": [
+      "#070707",
+      "#a2947d",
+      "#c5c5a5",
+      "#f9f3cc",
+      "#748670",
+      "#c2a68d",
+      "#d4e0b8",
+      "#d3d0c5",
+      "#5f5d57",
+      "#bba98d",
+      "#ddddb2",
+      "#fbf4c2",
+      "#869d81",
+      "#dfba9b",
+      "#e9f9c6",
+      "#f8f5ea"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/EL_JALEO-SINGER.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "100674949e8f7819cfc7ff17c0dcd771dfec475e6b136d6043cf7a29cece62ae"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Ristretto - Moonlight Chepstow Castle",
+  "palette": {
+    "colors": [
+      "#141211",
+      "#ad9479",
+      "#d1c79b",
+      "#fff4c0",
+      "#a1786d",
+      "#d1a48a",
+      "#dfe3a9",
+      "#eae6d9",
+      "#726b68",
+      "#c8a886",
+      "#ebdda4",
+      "#fff0af",
+      "#bc8b7c",
+      "#f0b795",
+      "#f5f8b0",
+      "#faf4ea"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/John_Martin_-_Moonlight_-_Chepstow_Castle_-_Google_Art_Project.jpg/3840px-John_Martin_-_Moonlight_-_Chepstow_Castle_-_Google_Art_Project.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "26add2ca9c2b4b424af3b73fbac6d45f8d52dd6332b8caf6a28be6859819c356"
+}

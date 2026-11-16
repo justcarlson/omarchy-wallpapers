@@ -1,0 +1,28 @@
+{
+  "name": "Flexoki Light - A Cartoon of Trees and Clouds",
+  "palette": {
+    "colors": [
+      "#f2dcb2",
+      "#a14700",
+      "#775500",
+      "#7d5c00",
+      "#3d54bc",
+      "#5655bc",
+      "#3b5dab",
+      "#000001",
+      "#75726c",
+      "#ce6813",
+      "#9e7800",
+      "#a48000",
+      "#5d72f7",
+      "#7973f6",
+      "#5b7de1",
+      "#070b16"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/minimal/a_cartoon_of_trees_and_clouds.png",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "aa4c763b2000a296a606613b53d5909fef8a6acbf8993a348b44d22a7f8cd5e2"
+}

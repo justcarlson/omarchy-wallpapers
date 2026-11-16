@@ -1,0 +1,27 @@
+{
+  "name": "Ethereal - Urban Architecture",
+  "palette": {
+    "colors": [
+      "#06090d",
+      "#9f8bba",
+      "#8fcbf6",
+      "#abfeff",
+      "#717db0",
+      "#a9a3e5",
+      "#a8deff",
+      "#b8e4ed",
+      "#5c6066",
+      "#b89ed8",
+      "#94e3ff",
+      "#95ffff",
+      "#8291d0",
+      "#bfb6ff",
+      "#b3f5ff",
+      "#f2f5ff"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/AngelJumbo/gruvbox-wallpapers/6aa74cbd65973e1a2a8695e83a58ce3ea634dd5e/wallpapers/pixelart/urban_architecture.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "7209523bdc174c461096ef72f0d4b429109942323820a0b7ef65fc19dac747b2"
+}

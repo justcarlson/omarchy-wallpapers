@@ -1,0 +1,27 @@
+{
+  "name": "Catppuccin - River City",
+  "palette": {
+    "colors": [
+      "#070513",
+      "#a289a2",
+      "#adc0e4",
+      "#ffddf7",
+      "#7f7899",
+      "#b59fc6",
+      "#cad3ff",
+      "#e6d8d4",
+      "#5d5c63",
+      "#bb9dbb",
+      "#bdd7ff",
+      "#ffdcfc",
+      "#948bb4",
+      "#ceb2e4",
+      "#dee9ff",
+      "#f7f3fe"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/7bfdf10d16ad3a689f9f0cf3a0930da3d1a245a8/river-city.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "60af8f0f085d0d21de759a50b81cb54685cb459fd390d0e95e0127da59d88f21"
+}

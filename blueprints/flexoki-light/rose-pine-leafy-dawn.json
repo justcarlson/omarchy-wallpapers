@@ -1,0 +1,28 @@
+{
+  "name": "Flexoki Light - Leafy Dawn",
+  "palette": {
+    "colors": [
+      "#fcf7ee",
+      "#816724",
+      "#826825",
+      "#8b6d00",
+      "#337a96",
+      "#327a96",
+      "#27788b",
+      "#00000f",
+      "#8b8882",
+      "#a78b2f",
+      "#a88c30",
+      "#b29200",
+      "#529fc3",
+      "#519fc3",
+      "#469db6",
+      "#081231"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/rose-pine/wallpapers/ee39a37b24ab7700cc4d52f50b01a5d13df6a865/illustration/leafy-dawn.png",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "ca4d1ea4b5c2579c30c5b8911bd8299ae07f8d4338bebfb0ba491130009cb972"
+}

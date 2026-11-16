@@ -1,0 +1,27 @@
+{
+  "name": "Tokyo Night - Colorful Planets",
+  "palette": {
+    "colors": [
+      "#05050d",
+      "#fc8f6f",
+      "#fea14d",
+      "#ffc66d",
+      "#728fe6",
+      "#bc566e",
+      "#aeb7ff",
+      "#7dcfff",
+      "#68686f",
+      "#ffaa80",
+      "#ffa500",
+      "#ffd023",
+      "#95b1ff",
+      "#eb7593",
+      "#b8bdff",
+      "#67ddff"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/e34f05935c5b768f4c016b0893924d18ec1dba61/images/colorful-planets.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "6f806bef31ecb48403b8c37a162e9ce3fc7d5cb0ef070eedb3c8850563721924"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Lumon - A Music Stand with a Book on It",
+  "palette": {
+    "colors": [
+      "#070708",
+      "#8791cc",
+      "#64d5eb",
+      "#79ffff",
+      "#4986b6",
+      "#80adf6",
+      "#64ecff",
+      "#c1e7f4",
+      "#5d5d63",
+      "#99a6ef",
+      "#4ef1ff",
+      "#3affff",
+      "#509cd8",
+      "#89c2ff",
+      "#4fffff",
+      "#ecf7fe"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/cold/a_music_stand_with_a_book_on_it.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "9b043dcce102e28b979921c6e42cf87af20f17c6e477c2ec1acb324a2d32009e"
+}

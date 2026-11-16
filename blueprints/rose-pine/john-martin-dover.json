@@ -1,0 +1,28 @@
+{
+  "name": "Rose Pine - Dover",
+  "palette": {
+    "colors": [
+      "#e9dbc1",
+      "#6b5e39",
+      "#5b4d2e",
+      "#685b35",
+      "#396773",
+      "#36606c",
+      "#3b676c",
+      "#303f42",
+      "#73706a",
+      "#8f8150",
+      "#7e6f45",
+      "#8c7e4b",
+      "#578b9a",
+      "#548393",
+      "#598b91",
+      "#4f6064"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/John_Martin_-_Dover_-_B1986.29.444_-_Yale_Center_for_British_Art.jpg/1920px-John_Martin_-_Dover_-_B1986.29.444_-_Yale_Center_for_British_Art.jpg",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "80f4d22fb2f201451f463b8f71d999624409910877e69b4d9cdccab458cf913a"
+}

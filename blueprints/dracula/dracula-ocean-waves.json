@@ -1,0 +1,27 @@
+{
+  "name": "Dracula - Ocean Waves",
+  "palette": {
+    "colors": [
+      "#050521",
+      "#aa85bd",
+      "#8bc8ff",
+      "#a1fcff",
+      "#7878ba",
+      "#b59bee",
+      "#abd8ff",
+      "#70e8ff",
+      "#5f6066",
+      "#c596dc",
+      "#8fe0ff",
+      "#88fdff",
+      "#8b8bdd",
+      "#ceacff",
+      "#b7eeff",
+      "#f4f4ff"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dracula/wallpaper/f2b8cc4223bcc2dfd5f165ab80f701bbb84e3303/second-collection/waves/dracula-waves-6272a4.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "8ae2eafeefa0112d316e3c556559db584a50993b1c2b700d016f92d8da317efb"
+}

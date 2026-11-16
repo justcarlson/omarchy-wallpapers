@@ -1,0 +1,27 @@
+name: Suggest a wallpaper
+description: Propose an image for one of the theme sets
+labels: [suggestion]
+body:
+  - type: input
+    id: link
+    attributes:
+      label: Link to the original image
+      description: The full-size original, not a resized copy.
+    validations:
+      required: true
+  - type: input
+    id: theme
+    attributes:
+      label: Theme
+      placeholder: gruvbox
+    validations:
+      required: true
+  - type: input
+    id: credit
+    attributes:
+      label: Creator and licence, if known
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it fits
+      description: Optional. A sentence on the colours or mood.

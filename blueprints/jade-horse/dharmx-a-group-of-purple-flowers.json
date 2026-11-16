@@ -1,0 +1,27 @@
+{
+  "name": "Jade Horse - A Group of Purple Flowers",
+  "palette": {
+    "colors": [
+      "#0b0e13",
+      "#9f8ead",
+      "#a3c8e8",
+      "#c6faff",
+      "#787da1",
+      "#ada5d2",
+      "#bddcff",
+      "#f6f0ff",
+      "#64676d",
+      "#b7a2c8",
+      "#b0dfff",
+      "#bbfbff",
+      "#8c92be",
+      "#c4b9f3",
+      "#cdf3ff",
+      "#f3f4ff"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/flowers/a_group_of_purple_flowers.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "5fec428543d589b9177c46076df24a90a113b93e7f351c6b600b65b25a9bcb4e"
+}

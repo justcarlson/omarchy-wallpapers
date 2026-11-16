@@ -1,0 +1,28 @@
+{
+  "name": "Lupine - A Group of Trees in a Snowy Field",
+  "palette": {
+    "colors": [
+      "#fec7af",
+      "#80463b",
+      "#7d4830",
+      "#7a471f",
+      "#39509d",
+      "#6e4982",
+      "#2d54b6",
+      "#03001c",
+      "#6f6865",
+      "#aa6657",
+      "#a66949",
+      "#a36833",
+      "#596fd2",
+      "#9567b1",
+      "#4d73f0",
+      "#171541"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/digital/a_group_of_trees_in_a_snowy_field.jpg",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "138e4afe6c6ba8d18c063a61917fd4d49d96a3aeb524ca450357533bb88a860e"
+}

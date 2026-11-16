@@ -1,0 +1,27 @@
+{
+  "name": "Nord - A City Skyline with a Tall Tower",
+  "palette": {
+    "colors": [
+      "#030510",
+      "#c9796d",
+      "#ffb993",
+      "#ffd3a6",
+      "#6074b6",
+      "#a8668f",
+      "#6776c0",
+      "#edd9a1",
+      "#67686f",
+      "#f79b8b",
+      "#ffbe7d",
+      "#ffdc8a",
+      "#8296ea",
+      "#d486ba",
+      "#8a97f6",
+      "#ffe681"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/nord/a_city_skyline_with_a_tall_tower.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "ce00a80ba7383e1d82e367ea229e39a0a791fd74989f5522e7d75d1cf98b9eaf"
+}

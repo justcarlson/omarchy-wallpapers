@@ -1,0 +1,28 @@
+{
+  "name": "White - A Mountain with Clouds in the Sky",
+  "palette": {
+    "colors": [
+      "#f9f9f9",
+      "#575757",
+      "#303030",
+      "#0d0d0d",
+      "#6c6c6c",
+      "#434343",
+      "#1e1e1e",
+      "#1b1b1b",
+      "#8c8a83",
+      "#464646",
+      "#212121",
+      "#030303",
+      "#5b5b5b",
+      "#333333",
+      "#101010",
+      "#000000"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/monochrome/a_mountain_with_clouds_in_the_sky.jpg",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "dc7e15b22d6903e0953623edfc857388f67100962a9ad35e6588459a849a75f8"
+}

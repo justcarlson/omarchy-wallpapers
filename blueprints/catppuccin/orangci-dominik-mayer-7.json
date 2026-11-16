@@ -1,0 +1,27 @@
+{
+  "name": "Catppuccin - Dominik Mayer 7",
+  "palette": {
+    "colors": [
+      "#050410",
+      "#eea89c",
+      "#eec497",
+      "#f4e6a4",
+      "#7275a9",
+      "#9a7398",
+      "#7775b0",
+      "#e5e1ab",
+      "#68686e",
+      "#ffaa96",
+      "#ffcd7b",
+      "#ffee7a",
+      "#9697da",
+      "#c394c4",
+      "#9b96e2",
+      "#f5f18e"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/7bfdf10d16ad3a689f9f0cf3a0930da3d1a245a8/dominik-mayer-7.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "354ce9d6e64407ebae75069a50213c18c112ebdb8aa7ad2f80c3c56563b42f56"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Ethereal - Catp Leaves",
+  "palette": {
+    "colors": [
+      "#070611",
+      "#a28cad",
+      "#a3c7ed",
+      "#c5f9ff",
+      "#7b7ca3",
+      "#b1a3d4",
+      "#bfdaff",
+      "#e4f5ff",
+      "#5d5d63",
+      "#bb9fc9",
+      "#b0deff",
+      "#bafaff",
+      "#8f90c1",
+      "#c9b6f5",
+      "#d0f1ff",
+      "#f4f4ff"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/krishna4a6av/Wallpapers/aa01193c864a1c175d3c44d1c0f4c4f62f3c61de/Catppuccin/catp-leaves.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "91e8142bad98b48ec6dcffe922a7167451a5a8de12d7fe3138e98e6e83f124a1"
+}

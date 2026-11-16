@@ -1,0 +1,27 @@
+{
+  "name": "Dracula - Dracula Ghost",
+  "palette": {
+    "colors": [
+      "#060612",
+      "#8791cd",
+      "#60d5ed",
+      "#74ffff",
+      "#4986b8",
+      "#80acf8",
+      "#61ecff",
+      "#fbfafa",
+      "#5d5d63",
+      "#9aa5f1",
+      "#47f1ff",
+      "#28ffff",
+      "#4f9cda",
+      "#89c2ff",
+      "#48ffff",
+      "#ecf7fe"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/aynp/dracula-wallpapers/b74123cab099b9fa6d83b5c2041a9030b58f3eb8/Art/4k/Ghost.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "7dc0777685aa6a00d5586200ece65cfef7fd7ece749397097e0ae920fe50028e"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "White - A Tree in the Snow",
+  "palette": {
+    "colors": [
+      "#ebebeb",
+      "#4f4f4f",
+      "#2a2a2a",
+      "#090909",
+      "#636363",
+      "#3c3c3c",
+      "#191919",
+      "#1b1b1b",
+      "#7f7d77",
+      "#3f3f3f",
+      "#1b1b1b",
+      "#020202",
+      "#525252",
+      "#2d2d2d",
+      "#0c0c0c",
+      "#000000"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/abstract/a_tree_in_the_snow.jpg",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "6a15d60f5d7865041a171551516c1452ebac0c0340d7a562c491fe23e6b17013"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Dracula - Soft Waves",
+  "palette": {
+    "colors": [
+      "#10021b",
+      "#b283b4",
+      "#9bc3ff",
+      "#ffceff",
+      "#8474b6",
+      "#c396e5",
+      "#c0d2ff",
+      "#b88bfe",
+      "#625f65",
+      "#cf93d1",
+      "#a5d9ff",
+      "#ffc4ff",
+      "#9a86d8",
+      "#dfa6ff",
+      "#d2e6ff",
+      "#f7f3fe"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dracula/wallpaper/f2b8cc4223bcc2dfd5f165ab80f701bbb84e3303/second-collection/soft-waves/dracula-soft-waves-bd93f9.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "2e2312739b195dfe46cd00c8d3a715f24a79e4d1913432e9258e7d434c3423cc"
+}

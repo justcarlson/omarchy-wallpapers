@@ -1,0 +1,27 @@
+{
+  "name": "Ethereal - Through the Branches",
+  "palette": {
+    "colors": [
+      "#020102",
+      "#a588a2",
+      "#adbfe9",
+      "#ffdbf5",
+      "#81769b",
+      "#b99dc7",
+      "#ccd2ff",
+      "#eaf1ff",
+      "#5f5a5f",
+      "#bf9bbb",
+      "#bed6ff",
+      "#ffd9f9",
+      "#9789b7",
+      "#d3afe6",
+      "#e1e7ff",
+      "#f8f3fd"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/rose-pine/wallpapers/ee39a37b24ab7700cc4d52f50b01a5d13df6a865/photography/single-celled/through-the-branches.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "7a069f062dca0707a0cf821632f03db84a642d7cc4c57b6b8d765ec05426f30a"
+}

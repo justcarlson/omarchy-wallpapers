@@ -1,0 +1,27 @@
+{
+  "name": "Ethereal - Cool",
+  "palette": {
+    "colors": [
+      "#060612",
+      "#a58da1",
+      "#b5c2e4",
+      "#ffe3f5",
+      "#847a97",
+      "#baa2c3",
+      "#d3d6ff",
+      "#eec59d",
+      "#5d5d63",
+      "#bfa1b9",
+      "#c8d9ff",
+      "#ffdff6",
+      "#9a8eb2",
+      "#d3b6e0",
+      "#e8ecff",
+      "#f9f2fd"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/7bfdf10d16ad3a689f9f0cf3a0930da3d1a245a8/cool.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "83a7059ce4f81880870fbc46cb6f25aebd864f8804e2aea60ad5aa342c1e3f7f"
+}

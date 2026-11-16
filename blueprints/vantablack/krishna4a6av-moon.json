@@ -1,0 +1,27 @@
+{
+  "name": "Vantablack - Moon",
+  "palette": {
+    "colors": [
+      "#090909",
+      "#969696",
+      "#c3c3c3",
+      "#f2f2f2",
+      "#808080",
+      "#acacac",
+      "#dadada",
+      "#d7d7d7",
+      "#62605a",
+      "#a8a8a8",
+      "#d6d6d6",
+      "#f5f5f5",
+      "#929292",
+      "#bfbfbf",
+      "#eeeeee",
+      "#fcfcfc"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/krishna4a6av/Wallpapers/aa01193c864a1c175d3c44d1c0f4c4f62f3c61de/Graphite/moon.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "ddc11f5fd0db2e96e2aeef092f38910fa6444f81b66ed8f8773aa3d3d81f6356"
+}

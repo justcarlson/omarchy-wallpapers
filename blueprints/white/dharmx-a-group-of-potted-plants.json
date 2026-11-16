@@ -1,0 +1,28 @@
+{
+  "name": "White - A Group of Potted Plants",
+  "palette": {
+    "colors": [
+      "#f8f7fa",
+      "#575a36",
+      "#1c3816",
+      "#011300",
+      "#457768",
+      "#4e420c",
+      "#002809",
+      "#0b1208",
+      "#89878e",
+      "#45471a",
+      "#022700",
+      "#001800",
+      "#246554",
+      "#3e2f00",
+      "#001c00",
+      "#000300"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/abstract/a_group_of_potted_plants.jpg",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "24477067abc54b1df01cd0b27b55960bf944cba9eef5590b8114ee50f5dc952f"
+}

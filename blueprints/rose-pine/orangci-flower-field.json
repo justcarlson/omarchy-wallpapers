@@ -1,0 +1,28 @@
+{
+  "name": "Rose Pine - Flower Field",
+  "palette": {
+    "colors": [
+      "#e9dbcd",
+      "#834e55",
+      "#575e26",
+      "#616114",
+      "#495c89",
+      "#755077",
+      "#3a628a",
+      "#000005",
+      "#75706b",
+      "#ac6e77",
+      "#788235",
+      "#838618",
+      "#6a7db8",
+      "#9c6fa2",
+      "#5984b8",
+      "#070f22"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/7bfdf10d16ad3a689f9f0cf3a0930da3d1a245a8/flower-field.jpg",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "04ed03bfa3da3d8a787ea71e48b790795b3c12d1a89390de1071dd4e06e3268e"
+}

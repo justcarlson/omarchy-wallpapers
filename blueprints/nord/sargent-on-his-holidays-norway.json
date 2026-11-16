@@ -1,0 +1,27 @@
+{
+  "name": "Nord - On His Holidays Norway",
+  "palette": {
+    "colors": [
+      "#070600",
+      "#ebd2ac",
+      "#7b7a52",
+      "#8d9369",
+      "#757da1",
+      "#6f769a",
+      "#7a84a4",
+      "#f6dab3",
+      "#696963",
+      "#ffdd92",
+      "#9f9f6a",
+      "#b1ba82",
+      "#99a0cf",
+      "#9299c7",
+      "#9ea8d1",
+      "#ffe498"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/John_Singer_Sargent_-_On_his_Holidays%2C_Norway_%281901%29.jpg/3840px-John_Singer_Sargent_-_On_his_Holidays%2C_Norway_%281901%29.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "610fc126a96edfb36079187da64b00e38d9582e7a25086a4522d3b9019be0535"
+}

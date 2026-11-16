@@ -1,0 +1,27 @@
+{
+  "name": "Catppuccin - Puffy Stars",
+  "palette": {
+    "colors": [
+      "#060611",
+      "#ad84a1",
+      "#edabb8",
+      "#ffd5ee",
+      "#8872a0",
+      "#c297ca",
+      "#d2cdff",
+      "#f0e2d8",
+      "#5d5d63",
+      "#c995ba",
+      "#ffbbcd",
+      "#ffd1f1",
+      "#9f85bc",
+      "#dfa8e9",
+      "#e9e1ff",
+      "#faf2fc"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/7bfdf10d16ad3a689f9f0cf3a0930da3d1a245a8/puffy-stars.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "50dff870e8cf27fd80b5b201a496ecea251e4d3e5287a0072941c820755716ac"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Miasma - Boboli Garden Florence",
+  "palette": {
+    "colors": [
+      "#030906",
+      "#b09152",
+      "#c5ca74",
+      "#fff78b",
+      "#599059",
+      "#de9d52",
+      "#c3eb81",
+      "#f1e7ce",
+      "#595f5c",
+      "#cda554",
+      "#dce26e",
+      "#fff76a",
+      "#64a865",
+      "#ffae48",
+      "#d5ff7f",
+      "#f7f6ea"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Boboli_Garden%2C_Florence_MET_DT4568.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "430d08338f237674a14287b56e5d439cf3abd2142c2b5bc6b8ce6d89896b7829"
+}

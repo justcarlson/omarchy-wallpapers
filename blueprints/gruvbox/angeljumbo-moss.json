@@ -1,0 +1,27 @@
+{
+  "name": "Gruvbox - Moss",
+  "palette": {
+    "colors": [
+      "#080707",
+      "#b08f6e",
+      "#d2c38c",
+      "#ffefae",
+      "#a47265",
+      "#d69d7e",
+      "#dfe096",
+      "#d6b6af",
+      "#635b5b",
+      "#cca379",
+      "#edd990",
+      "#ffee9b",
+      "#c28373",
+      "#f8af86",
+      "#f7f89b",
+      "#fbf4ea"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/AngelJumbo/gruvbox-wallpapers/6aa74cbd65973e1a2a8695e83a58ce3ea634dd5e/wallpapers/photography/moss.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "a0753c2c62f58d6f895af4898eb71acbd47deb03c0227ef6cf321f960aacb318"
+}

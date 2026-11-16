@@ -1,0 +1,27 @@
+{
+  "name": "Ethereal - Destruction of Tyre",
+  "palette": {
+    "colors": [
+      "#0a0910",
+      "#a78d9b",
+      "#deb8bb",
+      "#ffe4ec",
+      "#897a91",
+      "#bea2bb",
+      "#dcd3fc",
+      "#f0e2e5",
+      "#626167",
+      "#c1a1b2",
+      "#fccbcf",
+      "#ffe1eb",
+      "#a08daa",
+      "#d9b5d6",
+      "#f4e9ff",
+      "#fbf2fa"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/John_Martin_-_Destruction_of_Tyre_-_Google_Art_Project.jpg/3840px-John_Martin_-_Destruction_of_Tyre_-_Google_Art_Project.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "44098919f3f4426f0a7dc05387996ed5737cc4e1f7135af5fbad70682e7363d8"
+}

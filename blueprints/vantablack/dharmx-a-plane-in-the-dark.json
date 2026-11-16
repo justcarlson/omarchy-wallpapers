@@ -1,0 +1,27 @@
+{
+  "name": "Vantablack - A Plane in the Dark",
+  "palette": {
+    "colors": [
+      "#000000",
+      "#939393",
+      "#bfbfbf",
+      "#eeeeee",
+      "#7d7d7d",
+      "#a9a9a9",
+      "#d7d7d7",
+      "#e5e5e5",
+      "#686163",
+      "#a5a5a5",
+      "#d3d3d3",
+      "#f5f5f5",
+      "#8f8f8f",
+      "#bcbcbc",
+      "#eaeaea",
+      "#fcfcfc"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/unsorted/a_plane_in_the_dark.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "1f2a138afd3d519df2ff5f3b4201af88520e3c7836deed1ea8d677be5e921dd9"
+}

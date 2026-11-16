@@ -1,0 +1,27 @@
+{
+  "name": "Jade Horse - A White Flowers on a Branch",
+  "palette": {
+    "colors": [
+      "#131313",
+      "#a2997a",
+      "#c1cca5",
+      "#f5faca",
+      "#6d8c75",
+      "#c5ab86",
+      "#cbe8bb",
+      "#c7d8e7",
+      "#706e67",
+      "#bbae88",
+      "#d6e4b2",
+      "#f1f8bc",
+      "#7da387",
+      "#e1c090",
+      "#dbffc7",
+      "#f5f6eb"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/flowers/a_white_flowers_on_a_branch.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "a9e227cada2929d0a45d8ccfb565b2e8e2aea761a0f5f9ffebe9ae18ee3ead9c"
+}

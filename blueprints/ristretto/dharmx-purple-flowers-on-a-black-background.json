@@ -1,0 +1,27 @@
+{
+  "name": "Ristretto - Purple Flowers on a Black Background",
+  "palette": {
+    "colors": [
+      "#111111",
+      "#9e61da",
+      "#5a894c",
+      "#729751",
+      "#7275c0",
+      "#9a73bb",
+      "#588d46",
+      "#b0cea0",
+      "#6d6b65",
+      "#c87cff",
+      "#78b15e",
+      "#92bf60",
+      "#9696f6",
+      "#c393ef",
+      "#76b553",
+      "#b1e18f"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/flowers/purple_flowers_on_a_black_background.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "0d0d2ace9d9cc8e15a17330bf211d6d038a117eb659220c9e9c50339f91d303e"
+}

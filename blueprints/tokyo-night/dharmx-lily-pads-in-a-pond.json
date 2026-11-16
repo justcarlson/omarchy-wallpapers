@@ -1,0 +1,27 @@
+{
+  "name": "Tokyo Night - Lily Pads in a Pond",
+  "palette": {
+    "colors": [
+      "#030510",
+      "#698549",
+      "#90b17e",
+      "#c2d279",
+      "#738cbd",
+      "#657bb0",
+      "#6ca684",
+      "#a4b4be",
+      "#67686f",
+      "#89ac5a",
+      "#b2d996",
+      "#cce34a",
+      "#96b0ef",
+      "#879ee2",
+      "#8bcea2",
+      "#c1d3df"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/nord/lily_pads_in_a_pond.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "74a03414d399e263a5d53bbaa251401453af4e214b8f575220c6c2299fbca22a"
+}

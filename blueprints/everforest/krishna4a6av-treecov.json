@@ -1,0 +1,27 @@
+{
+  "name": "Everforest - Treecov",
+  "palette": {
+    "colors": [
+      "#040809",
+      "#af8f70",
+      "#d2c38e",
+      "#ffefb1",
+      "#a37267",
+      "#d59e81",
+      "#e0df99",
+      "#b99879",
+      "#575f61",
+      "#cba37c",
+      "#edd994",
+      "#ffeea0",
+      "#c08476",
+      "#f6b08a",
+      "#f8f79f",
+      "#fbf4ea"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/krishna4a6av/Wallpapers/aa01193c864a1c175d3c44d1c0f4c4f62f3c61de/Everforest/treecov.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "355356cc89ee675568ea96d95834e5e21881ebbd64a0ccdad62eb5a829bed6b3"
+}

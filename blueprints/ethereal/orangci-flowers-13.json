@@ -1,0 +1,27 @@
+{
+  "name": "Ethereal - Flowers 13",
+  "palette": {
+    "colors": [
+      "#060612",
+      "#ad8a9d",
+      "#e8b3b7",
+      "#ffdeea",
+      "#8c7798",
+      "#c49dc1",
+      "#ddd0ff",
+      "#dcc3d4",
+      "#5d5d63",
+      "#c99cb4",
+      "#ffc5cb",
+      "#ffd9e9",
+      "#a489b3",
+      "#e1afdd",
+      "#f5e5ff",
+      "#fbf2fa"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/7bfdf10d16ad3a689f9f0cf3a0930da3d1a245a8/flowers-13.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "19393086ff2540000c24b75b7adadf3e7eab88994c3ac734357ba00e53e5c963"
+}

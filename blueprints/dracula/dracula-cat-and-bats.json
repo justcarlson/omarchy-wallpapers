@@ -1,0 +1,27 @@
+{
+  "name": "Dracula - Cat and Bats",
+  "palette": {
+    "colors": [
+      "#09021d",
+      "#af7fb1",
+      "#98c0ff",
+      "#ffcbff",
+      "#8171b3",
+      "#c093e2",
+      "#beceff",
+      "#dcc8c4",
+      "#5e5d63",
+      "#cc90ce",
+      "#a2d6ff",
+      "#ffc4ff",
+      "#9783d4",
+      "#dca2ff",
+      "#cfe3ff",
+      "#f7f3fe"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dracula/wallpaper/f2b8cc4223bcc2dfd5f165ab80f701bbb84e3303/second-collection/illustrations/cat-and-bats/dracula-cat-282a36.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "19c432d8b6e9b03e9d6277b5fb23cd8c86fc8d72d8bc63dc6dfcd56ce145c1e0"
+}

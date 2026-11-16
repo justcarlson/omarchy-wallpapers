@@ -1,0 +1,27 @@
+{
+  "name": "Lumon - Galaxy Waves",
+  "palette": {
+    "colors": [
+      "#070612",
+      "#9b8eb4",
+      "#98caea",
+      "#b8fdff",
+      "#707fa6",
+      "#a6a6db",
+      "#aedfff",
+      "#b6d7df",
+      "#5e5d64",
+      "#b2a2d1",
+      "#a0e3ff",
+      "#a8ffff",
+      "#8294c4",
+      "#babafd",
+      "#baf7ff",
+      "#f1f5ff"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/7bfdf10d16ad3a689f9f0cf3a0930da3d1a245a8/galaxy-waves.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "80bc28f1fdb548d34f0de9ebc658980833f6925b4b45fefca502d7e4b69d1c7d"
+}

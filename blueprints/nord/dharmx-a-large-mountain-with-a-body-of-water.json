@@ -1,0 +1,27 @@
+{
+  "name": "Nord - A Large Mountain with a Body of Water",
+  "palette": {
+    "colors": [
+      "#030510",
+      "#b27572",
+      "#9fe2fb",
+      "#ffb1ba",
+      "#677cac",
+      "#b68cb5",
+      "#7fc1d8",
+      "#d7ddeb",
+      "#67686f",
+      "#dd9793",
+      "#87f4ff",
+      "#ffb1c1",
+      "#899fdd",
+      "#e0aee3",
+      "#95defb",
+      "#dae9ff"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/nord/a_large_mountain_with_a_body_of_water.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "d9e1379fe0aab7204ec9867e126fb16ddcaa214f5016fd0832697c8e36de6d4f"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Ethereal - Haunted House",
+  "palette": {
+    "colors": [
+      "#070612",
+      "#b783a2",
+      "#f8aab4",
+      "#ffd3e9",
+      "#9172a5",
+      "#ce95cd",
+      "#ddcbff",
+      "#e3d3db",
+      "#5e5d64",
+      "#d594bb",
+      "#ffb9c6",
+      "#ffcbe7",
+      "#aa83c2",
+      "#eea5ec",
+      "#f6deff",
+      "#fbf2fa"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/7bfdf10d16ad3a689f9f0cf3a0930da3d1a245a8/haunted-house.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "03130a64370f6a009aae66cb81dff9c57d46e4448240f75f9cf1eaacb6e088d7"
+}

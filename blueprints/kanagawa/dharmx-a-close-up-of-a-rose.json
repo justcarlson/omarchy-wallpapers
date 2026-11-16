@@ -1,0 +1,27 @@
+{
+  "name": "Kanagawa - A Close Up of a Rose",
+  "palette": {
+    "colors": [
+      "#030510",
+      "#c7746d",
+      "#d98686",
+      "#f1a089",
+      "#b66671",
+      "#b2636d",
+      "#bd6c78",
+      "#d4b097",
+      "#67686f",
+      "#f5968c",
+      "#ffa8a8",
+      "#ffa27d",
+      "#e38794",
+      "#df8490",
+      "#ea8d9c",
+      "#f3b784"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/nord/a_close_up_of_a_rose.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "516a63aafb1a075229539018ae5cfa9010b5c7578d41cbae36695f7dfb10a98c"
+}

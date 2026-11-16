@@ -1,0 +1,27 @@
+{
+  "name": "Everforest - Landscape with a Castle",
+  "palette": {
+    "colors": [
+      "#0a0700",
+      "#ab9266",
+      "#c6c88a",
+      "#fdf5a8",
+      "#668c63",
+      "#d3a16e",
+      "#cbe699",
+      "#c2c496",
+      "#5e5e57",
+      "#c5a76f",
+      "#dde08e",
+      "#fff695",
+      "#75a471",
+      "#f4b372",
+      "#dfffa0",
+      "#f7f6ea"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/John_Martin_-_Landscape_with_a_Castle_-_Google_Art_Project.jpg/3840px-John_Martin_-_Landscape_with_a_Castle_-_Google_Art_Project.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "ac13ec723d899fccff0e76452db6884403b278cce2c184ea8f8adb48e31eecc5"
+}

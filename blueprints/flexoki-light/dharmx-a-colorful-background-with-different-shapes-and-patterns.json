@@ -1,0 +1,28 @@
+{
+  "name": "Flexoki Light - A Colorful Background with Different Shapes and Patterns",
+  "palette": {
+    "colors": [
+      "#ffe7e5",
+      "#94575c",
+      "#3b6e6e",
+      "#846137",
+      "#3a6c6f",
+      "#8c5d68",
+      "#3e7270",
+      "#574b4e",
+      "#857d7c",
+      "#be787e",
+      "#599393",
+      "#ab844c",
+      "#589094",
+      "#b57e8c",
+      "#5c9794",
+      "#7a6c70"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/abstract/a_colorful_background_with_different_shapes_and_patterns.png",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "51b86d67a86428504a6570a1f36e40f230dda0228a74f574d0feedcaead6c444"
+}

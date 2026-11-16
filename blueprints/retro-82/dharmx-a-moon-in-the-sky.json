@@ -1,0 +1,27 @@
+{
+  "name": "Retro 82 - A Moon in the Sky",
+  "palette": {
+    "colors": [
+      "#161414",
+      "#cb5c4a",
+      "#408d99",
+      "#d36743",
+      "#348c9c",
+      "#cd6042",
+      "#54a7b4",
+      "#fa8252",
+      "#756d6d",
+      "#fb7d64",
+      "#5eb3c3",
+      "#ff8859",
+      "#53b2c7",
+      "#fd8159",
+      "#72cedf",
+      "#ffa262"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/architecture/a_moon_in_the_sky.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "7da47db9d5edef90337692fff05c2b44e0ae58c216836f496f68ea10a1d02078"
+}

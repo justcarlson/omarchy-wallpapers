@@ -1,0 +1,27 @@
+{
+  "name": "Everforest - Mist Forest 1",
+  "palette": {
+    "colors": [
+      "#03080d",
+      "#909a82",
+      "#aeccb6",
+      "#dcfcde",
+      "#658884",
+      "#89b6b9",
+      "#b7e7d3",
+      "#adaea4",
+      "#595e63",
+      "#a5b193",
+      "#bee5c9",
+      "#d7fed9",
+      "#749f9a",
+      "#94ced3",
+      "#c5ffe8",
+      "#edf8f1"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/Apeiros-46B/everforest-walls/8f538b4e34a880748a471dc4c7aade6e29982417/nature/mist_forest_1.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "b46b9d4b4054f37c1b0440c206b5d693b6ab91c7bc05fd2ef9f504ddc4c1619d"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Starship - Qjyk2ss",
+  "palette": {
+    "colors": [
+      "#090806",
+      "#ac8f7b",
+      "#d3c19b",
+      "#ffedc2",
+      "#9c7571",
+      "#cea090",
+      "#e5dca7",
+      "#ffefaf",
+      "#615f59",
+      "#c7a38a",
+      "#efd7a5",
+      "#ffecb6",
+      "#b78782",
+      "#edb39e",
+      "#fff3b1",
+      "#fcf3eb"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/AngelJumbo/gruvbox-wallpapers/6aa74cbd65973e1a2a8695e83a58ce3ea634dd5e/wallpapers/photography/qJYK2SS.jpeg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "f1bce533e8e97aec4e97f1e7a21c46b82c2a33cc1954d375f4579fdb83b9c0f3"
+}

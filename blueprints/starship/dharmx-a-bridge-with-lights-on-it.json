@@ -1,0 +1,27 @@
+{
+  "name": "Starship - A Bridge with Lights on It",
+  "palette": {
+    "colors": [
+      "#070707",
+      "#c78079",
+      "#fab07f",
+      "#ffd7a7",
+      "#ae6783",
+      "#ec8c9b",
+      "#ffc86f",
+      "#e9c5c1",
+      "#5f5d57",
+      "#e89087",
+      "#ffc07f",
+      "#ffcf92",
+      "#cd7599",
+      "#ff97ac",
+      "#ffda67",
+      "#fff1f0"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/architecture/a_bridge_with_lights_on_it.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "465390cba5d4fa1861f2948b59fabe399bd2d7d53ddd6c896b0739bee4eca2c8"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Tokyo Night - Shiny Colors",
+  "palette": {
+    "colors": [
+      "#11111c",
+      "#cc7980",
+      "#649e64",
+      "#9caf62",
+      "#6a81ca",
+      "#e29ae4",
+      "#7de8d4",
+      "#e3e9a6",
+      "#6c6c72",
+      "#fa9ba3",
+      "#82c779",
+      "#bfd86f",
+      "#8da3ff",
+      "#fc98ff",
+      "#51fedf",
+      "#ebf582"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/e34f05935c5b768f4c016b0893924d18ec1dba61/images/shiny-colors.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "c30f09c5647221f87c150562ea5eae2677fe57d2340357f82cd76d51c658301e"
+}

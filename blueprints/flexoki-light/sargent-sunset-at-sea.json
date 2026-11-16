@@ -1,0 +1,28 @@
+{
+  "name": "Flexoki Light - Sunset at Sea",
+  "palette": {
+    "colors": [
+      "#e7ddca",
+      "#6e613d",
+      "#6a6030",
+      "#6e6115",
+      "#5c5980",
+      "#6a5a85",
+      "#605b84",
+      "#020008",
+      "#74716b",
+      "#928554",
+      "#8e8443",
+      "#92851a",
+      "#7f7aac",
+      "#8f7ab2",
+      "#837cb1",
+      "#170f27"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Sunset_at_Sea_MET_DT235919.jpg",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "854fb7476aa88ff46f86e57756192bb958d4b6a66aae4d7834db7f36496158e7"
+}

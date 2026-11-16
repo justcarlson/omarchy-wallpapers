@@ -1,0 +1,27 @@
+{
+  "name": "Miasma - A Mountain Range with Dark Clouds",
+  "palette": {
+    "colors": [
+      "#000711",
+      "#9e7358",
+      "#9d7452",
+      "#a17655",
+      "#547c9f",
+      "#bc865d",
+      "#5b7e99",
+      "#ffe3b5",
+      "#585c61",
+      "#c79673",
+      "#c6986b",
+      "#ca9a6e",
+      "#74a0cd",
+      "#e7aa74",
+      "#7ca2c5",
+      "#ffe590"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/mountain/a_mountain_range_with_dark_clouds.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "cc77826b9a52b64510a9a9d4570c3728c7a1a20e6d497adf10a3e07747ea80c1"
+}

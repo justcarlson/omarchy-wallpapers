@@ -1,0 +1,28 @@
+{
+  "name": "Rose Pine - A Lighthouse in Front of a Building",
+  "palette": {
+    "colors": [
+      "#eef3f7",
+      "#8e6831",
+      "#846030",
+      "#8a660c",
+      "#3b699f",
+      "#355a83",
+      "#234970",
+      "#414a37",
+      "#7f8489",
+      "#b68c42",
+      "#ab8343",
+      "#b28a05",
+      "#5b8bd1",
+      "#547cb1",
+      "#416a9d",
+      "#616c53"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/architecture/a_lighthouse_in_front_of_a_building.jpg",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "85b24f6e5daf04d6fe8e08ad531191aff9262ab01905edc9f39ef7a8d7f1b186"
+}

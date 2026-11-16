@@ -1,0 +1,27 @@
+{
+  "name": "Ristretto - Macbeth",
+  "palette": {
+    "colors": [
+      "#17100b",
+      "#b09278",
+      "#d5c597",
+      "#fff2bb",
+      "#a3776d",
+      "#d5a289",
+      "#e4e1a2",
+      "#d5cfba",
+      "#706b66",
+      "#cca685",
+      "#f0dc9f",
+      "#ffeea9",
+      "#bf897d",
+      "#f5b595",
+      "#faf7a8",
+      "#fbf4ea"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/John_Martin_-_Macbeth_-_Google_Art_Project.jpg/3840px-John_Martin_-_Macbeth_-_Google_Art_Project.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "98dadfbafc5fa12d722deba1bb4738019785d4d5d39d4579cd686b6d66d23fb6"
+}

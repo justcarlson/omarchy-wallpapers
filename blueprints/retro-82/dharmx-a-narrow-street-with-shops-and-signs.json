@@ -1,0 +1,27 @@
+{
+  "name": "Retro 82 - A Narrow Street with Shops and Signs",
+  "palette": {
+    "colors": [
+      "#040c12",
+      "#be5f51",
+      "#1cb5c7",
+      "#eda068",
+      "#3082a6",
+      "#d05e4b",
+      "#41cddb",
+      "#dcc7b8",
+      "#5e6468",
+      "#ed806d",
+      "#40ddf4",
+      "#ffbb71",
+      "#50a7d5",
+      "#ff7f65",
+      "#00e0f6",
+      "#fccfa7"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/architecture/a_narrow_street_with_shops_and_signs.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "4f250c07835e1350bf69761a6f794aa39c606d59ec13ef4701197add92073b34"
+}

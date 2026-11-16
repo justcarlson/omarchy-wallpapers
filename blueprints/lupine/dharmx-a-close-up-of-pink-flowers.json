@@ -1,0 +1,28 @@
+{
+  "name": "Lupine - A Close Up of Pink Flowers",
+  "palette": {
+    "colors": [
+      "#dedee3",
+      "#a34039",
+      "#335a00",
+      "#646600",
+      "#924a5f",
+      "#a03e66",
+      "#476600",
+      "#13260e",
+      "#727178",
+      "#d16055",
+      "#4f8000",
+      "#868b00",
+      "#bd6983",
+      "#ce5c8d",
+      "#658c00",
+      "#2e4624"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/nature/a_close_up_of_pink_flowers.jpg",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "0db5870080a613137bbe407244fb3da541c63751fadfe9d2a07e0f12048ea545"
+}

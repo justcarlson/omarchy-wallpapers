@@ -1,0 +1,27 @@
+{
+  "name": "Vantablack - A Person Playing a Guitar",
+  "palette": {
+    "colors": [
+      "#000000",
+      "#939393",
+      "#bfbfbf",
+      "#eeeeee",
+      "#7d7d7d",
+      "#a9a9a9",
+      "#d7d7d7",
+      "#d7d7d7",
+      "#686163",
+      "#a5a5a5",
+      "#d3d3d3",
+      "#f5f5f5",
+      "#8f8f8f",
+      "#bcbcbc",
+      "#eaeaea",
+      "#fcfcfc"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/monochrome/a_person_playing_a_guitar.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "ca806852c8269f61ceb0fdb8a373872c95ea993b1985f81b3b340fecbcf62239"
+}

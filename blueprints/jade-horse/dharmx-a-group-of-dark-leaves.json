@@ -1,0 +1,27 @@
+{
+  "name": "Jade Horse - A Group of Dark Leaves",
+  "palette": {
+    "colors": [
+      "#0a0c0b",
+      "#8f9a83",
+      "#adccb7",
+      "#dafcdf",
+      "#658885",
+      "#89b5ba",
+      "#b6e7d5",
+      "#ffe6ff",
+      "#5f6662",
+      "#a3b194",
+      "#bce5cb",
+      "#d5ffdb",
+      "#739f9b",
+      "#94ced4",
+      "#c4ffeb",
+      "#edf8f2"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/nature/a_group_of_dark_leaves.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "39b51e84bad644404fb3bc03cecec8c0e290be27fe414552424be5b2b311a32e"
+}

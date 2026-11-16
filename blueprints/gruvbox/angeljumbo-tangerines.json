@@ -1,0 +1,27 @@
+{
+  "name": "Gruvbox - Tangerines",
+  "palette": {
+    "colors": [
+      "#141112",
+      "#c58a63",
+      "#eabf6f",
+      "#ffe88d",
+      "#b86a67",
+      "#f09377",
+      "#f9dd67",
+      "#e78a53",
+      "#716a6d",
+      "#e59b6a",
+      "#ffd366",
+      "#ffe169",
+      "#d87976",
+      "#ffa07c",
+      "#fff156",
+      "#fdf3eb"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/AngelJumbo/gruvbox-wallpapers/6aa74cbd65973e1a2a8695e83a58ce3ea634dd5e/wallpapers/photography/tangerines.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "5b8468be6c0e45b57fc9eb5745cee80f032c3af67652d883d6d19379c7f8bfa6"
+}

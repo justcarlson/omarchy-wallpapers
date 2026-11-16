@@ -1,0 +1,27 @@
+{
+  "name": "Everforest - Rocks 1",
+  "palette": {
+    "colors": [
+      "#03080e",
+      "#8897ac",
+      "#a3cccb",
+      "#cbfef7",
+      "#678693",
+      "#92b1c8",
+      "#afe5ed",
+      "#faf6e0",
+      "#5a5e63",
+      "#9aadc8",
+      "#afe6e4",
+      "#c1fff8",
+      "#769cac",
+      "#a0c8e6",
+      "#bbffff",
+      "#eaf8fb"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/Apeiros-46B/everforest-walls/8f538b4e34a880748a471dc4c7aade6e29982417/close_up/rocks_1.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "5f4fbca505c6875775d4ecca0a01b03e9a3f65328c540a6c8b2500f12846cf38"
+}

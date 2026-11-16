@@ -1,0 +1,27 @@
+{
+  "name": "Gruvbox - Upscaled Ss",
+  "palette": {
+    "colors": [
+      "#080706",
+      "#bb8b58",
+      "#d9c26c",
+      "#ffed86",
+      "#b46956",
+      "#e89564",
+      "#e1e26c",
+      "#b9a57b",
+      "#615d57",
+      "#da9d5c",
+      "#f7d862",
+      "#ffeb62",
+      "#d47861",
+      "#ffa362",
+      "#fbfa62",
+      "#fbf4ea"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/krishna4a6av/Wallpapers/aa01193c864a1c175d3c44d1c0f4c4f62f3c61de/Gruvbox/upscaled-ss.png",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "a03093816af04f4e02809c91714402766ffcbef8b1d28fff90a17b592a14e701"
+}

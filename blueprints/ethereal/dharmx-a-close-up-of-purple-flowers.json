@@ -1,0 +1,27 @@
+{
+  "name": "Ethereal - A Close Up of Purple Flowers",
+  "palette": {
+    "colors": [
+      "#04080c",
+      "#aa89ac",
+      "#a7c4f5",
+      "#ffdaff",
+      "#8179a6",
+      "#bb9ed5",
+      "#c7d6ff",
+      "#ffe7ff",
+      "#595e63",
+      "#c49bc7",
+      "#b5dbff",
+      "#ffd4ff",
+      "#978cc4",
+      "#d5b0f6",
+      "#d9ebff",
+      "#f7f3fe"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/flowers/a_close_up_of_purple_flowers.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "58099bf69305ef5f3fdc587df7bd568d982d511560674b15b4e8fb9ccef1f840"
+}

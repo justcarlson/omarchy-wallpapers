@@ -1,0 +1,28 @@
+{
+  "name": "Lupine - A Landscape of Mountains and Snow",
+  "palette": {
+    "colors": [
+      "#f6f7fa",
+      "#525473",
+      "#003744",
+      "#00131e",
+      "#546e8b",
+      "#324267",
+      "#00223c",
+      "#49536a",
+      "#86888e",
+      "#3f4064",
+      "#002637",
+      "#001927",
+      "#3b5b7c",
+      "#1d2e5b",
+      "#001433",
+      "#000208"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/nord/a_landscape_of_mountains_and_snow.png",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "e16f50348184644ac45794aee098bb6b7e90089f29d7f72d263cde8093baf248"
+}

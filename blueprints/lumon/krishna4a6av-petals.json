@@ -1,0 +1,27 @@
+{
+  "name": "Lumon - Petals",
+  "palette": {
+    "colors": [
+      "#060612",
+      "#9891aa",
+      "#a8c8db",
+      "#cefaff",
+      "#758099",
+      "#a7a9ca",
+      "#bedefe",
+      "#e8f5ff",
+      "#5d5d63",
+      "#aea6c4",
+      "#b6e0f9",
+      "#c5fbff",
+      "#8895b4",
+      "#bbbee9",
+      "#cef6ff",
+      "#f0f5ff"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/krishna4a6av/Wallpapers/aa01193c864a1c175d3c44d1c0f4c4f62f3c61de/Kanagawa/petals.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "cc27d9a0427e891a36b1dbc7577c3d6da6e28324f68719539aa27bbe2ea93836"
+}

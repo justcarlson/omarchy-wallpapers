@@ -1,0 +1,28 @@
+{
+  "name": "Catppuccin Latte - Voyager 12",
+  "palette": {
+    "colors": [
+      "#e8dbcb",
+      "#7c5666",
+      "#79586b",
+      "#765369",
+      "#6b5476",
+      "#774f66",
+      "#695079",
+      "#2d2e40",
+      "#74706a",
+      "#a3778b",
+      "#a07991",
+      "#9d7390",
+      "#9074a0",
+      "#9e6f8d",
+      "#8e70a5",
+      "#4c4d65"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/7bfdf10d16ad3a689f9f0cf3a0930da3d1a245a8/voyager-12.jpg",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "292be3997de82a6a00ce5e4baa5133207ad0b6895ffae67c0028ec06b7a233b1"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Kanagawa - A Row of Lights",
+  "palette": {
+    "colors": [
+      "#000616",
+      "#cf8f00",
+      "#87b360",
+      "#c9c460",
+      "#597dc7",
+      "#567cc7",
+      "#3383c6",
+      "#f2eca2",
+      "#595c62",
+      "#fbb500",
+      "#a7dd6c",
+      "#d8d300",
+      "#7a9ffe",
+      "#779efe",
+      "#54a6fc",
+      "#f8f173"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/lightbulb/a_row_of_lights.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "66578e1d5f03f7007b75863d87ecd37221a5f017c3034a9f6c2f9776aaae68f0"
+}

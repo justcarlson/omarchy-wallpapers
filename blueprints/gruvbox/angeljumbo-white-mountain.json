@@ -1,0 +1,27 @@
+{
+  "name": "Gruvbox - White Mountain",
+  "palette": {
+    "colors": [
+      "#050808",
+      "#9f957d",
+      "#c1c7a7",
+      "#f4f5cd",
+      "#708773",
+      "#c0a88b",
+      "#cee2bb",
+      "#ede3b8",
+      "#575f5f",
+      "#b7aa8c",
+      "#d7dfb5",
+      "#f5f6c4",
+      "#829e85",
+      "#dbbc98",
+      "#e2fbcb",
+      "#f6f6eb"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/AngelJumbo/gruvbox-wallpapers/6aa74cbd65973e1a2a8695e83a58ce3ea634dd5e/wallpapers/photography/White-Mountain.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "6b4643f94ccd50485a6ae130179d3044b0bdb7abc4700ee419779e029312b37c"
+}

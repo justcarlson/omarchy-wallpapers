@@ -1,0 +1,28 @@
+{
+  "name": "White - Setting Out to Fish",
+  "palette": {
+    "colors": [
+      "#f0e8cb",
+      "#5f4828",
+      "#2f2800",
+      "#120400",
+      "#516843",
+      "#562e09",
+      "#161a00",
+      "#1f1e1c",
+      "#7c7a74",
+      "#4f3306",
+      "#201600",
+      "#200c00",
+      "#3b562a",
+      "#481600",
+      "#121400",
+      "#040100"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/John_Singer_Sargent_-_Cancale.jpg/3840px-John_Singer_Sargent_-_Cancale.jpg",
+    "lightMode": true,
+    "mode": "light"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "560825e3041ebe431ea3af5ad2440c2635f3a2a83cb52625bc9b0a13172e71aa"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Starship - Arcadian Landscape",
+  "palette": {
+    "colors": [
+      "#030101",
+      "#9a725a",
+      "#9c9066",
+      "#f1e5af",
+      "#91b2d4",
+      "#9d7063",
+      "#bbddff",
+      "#f9f4c6",
+      "#625b5a",
+      "#c39576",
+      "#c2b67e",
+      "#feed8b",
+      "#aed2fd",
+      "#c69382",
+      "#b4ebff",
+      "#f6f099"
+    ],
+    "wallpaperUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Arcadian_Landscape.jpg/1920px-Arcadian_Landscape.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "46511a291465aa5b223322c4a02ce078d8d3a21f0ee972d8dab2a1899be6dc60"
+}

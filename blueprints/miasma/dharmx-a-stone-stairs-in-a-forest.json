@@ -1,0 +1,27 @@
+{
+  "name": "Miasma - A Stone Stairs in a Forest",
+  "palette": {
+    "colors": [
+      "#160c2f",
+      "#ad7473",
+      "#638b51",
+      "#8aa97c",
+      "#817db3",
+      "#9a73a1",
+      "#5e8f69",
+      "#d6c096",
+      "#6f6e75",
+      "#d89695",
+      "#82b364",
+      "#acd196",
+      "#a69fe4",
+      "#c394cf",
+      "#7db684",
+      "#eecc7a"
+    ],
+    "wallpaperUrl": "https://raw.githubusercontent.com/dharmx/walls/6bf4d733ebf2b484a37c17d742eb47e5139e6a14/nature/a_stone_stairs_in_a_forest.jpg",
+    "mode": "dark"
+  },
+  "timestamp": 0,
+  "wallpaperSha256": "0f6ad319237ce09555b76bc0b0bb1c056df833d84c9f7556341fc1b91a3d3a94"
+}
