@@ -1,7 +1,8 @@
 //! `wallpapers.tsv`: one row per wallpaper per theme.
 //!
-//! Columns: theme, SHA-256, installed file name, source. The source is an
-//! HTTPS URL or a path under `images/` in this repository.
+//! Columns: theme, SHA-256, installed file name, source, and an optional
+//! origin. The source is an HTTPS URL or a path under `images/` in this
+//! repository. The origin is where a stored image came from, for credits.
 
 use anyhow::{Context, Result, bail, ensure};
 use std::collections::{BTreeMap, HashSet};
@@ -11,7 +12,7 @@ pub const REPO: &str = "justcarlson/omarchy-wallpapers";
 pub const RAW_BASE: &str = "https://raw.githubusercontent.com/justcarlson/omarchy-wallpapers/main";
 pub const SITE: &str = "https://justcarlson.github.io/omarchy-wallpapers";
 
-pub const HEADER: &str = "# theme\tsha256\tfile\tsource\n\
+pub const HEADER: &str = "# theme\tsha256\tfile\tsource\torigin\n\
 # Generated from the curator's manifest. Edit upstream, then run `gallery sync`.\n";
 
 #[derive(Clone, Debug, PartialEq, Eq)]
@@ -20,6 +21,7 @@ pub struct Row {
     pub sha256: String,
     pub file: String,
     pub source: String,
+    pub origin: Option<String>,
 }
 
 /// Painters whose public-domain works are in the collection, by file prefix.
@@ -60,9 +62,14 @@ impl Row {
         ARTISTS.iter().find(|(prefix, _)| self.slug().starts_with(prefix)).map(|(_, name)| *name)
     }
 
+    /// Where the image came from: its origin if stored here, else its source.
+    fn provenance(&self) -> &str {
+        self.origin.as_deref().unwrap_or(&self.source)
+    }
+
     /// The GitHub owner and repository for a raw.githubusercontent.com source.
     fn github(&self) -> Option<(&str, &str, &str)> {
-        let rest = self.source.strip_prefix("https://raw.githubusercontent.com/")?;
+        let rest = self.provenance().strip_prefix("https://raw.githubusercontent.com/")?;
         let mut parts = rest.splitn(4, '/');
         Some((parts.next()?, parts.next()?, rest))
     }
@@ -87,20 +94,20 @@ impl Row {
                 url: format!("https://github.com/{owner}/{repo}/blob/{commit}/{path}"),
             };
         }
-        if self.source.starts_with("https://upload.wikimedia.org/") {
-            let name = commons_file_name(&self.source);
+        if self.provenance().starts_with("https://upload.wikimedia.org/") {
+            let name = commons_file_name(self.provenance());
             return Credit {
                 label: self.artist().map_or("Wikimedia Commons".into(), |a| format!("{a}, Wikimedia Commons")),
                 url: format!("https://commons.wikimedia.org/wiki/File:{name}"),
             };
         }
-        if self.local() {
+        if self.local() && self.origin.is_none() {
             return Credit {
                 label: self.artist().map_or("This repository".into(), |a| format!("{a}, restored here")),
                 url: format!("https://github.com/{REPO}/blob/main/{}", self.source),
             };
         }
-        Credit { label: host(&self.source).to_string(), url: self.source.clone() }
+        Credit { label: host(self.provenance()).to_string(), url: self.provenance().to_string() }
     }
 }
 
@@ -140,10 +147,12 @@ pub fn parse(text: &str) -> Result<Vec<Row>> {
             continue;
         }
         let fields: Vec<&str> = line.split('\t').collect();
-        let [theme, sha256, file, source] = fields[..] else {
-            bail!("line {}: want 4 tab-separated fields, got {}", index + 1, fields.len());
+        let (theme, sha256, file, source, origin) = match fields[..] {
+            [t, s, f, src] => (t, s, f, src, None),
+            [t, s, f, src, o] => (t, s, f, src, Some(o.to_string())),
+            _ => bail!("line {}: want 4 or 5 tab-separated fields, got {}", index + 1, fields.len()),
         };
-        rows.push(Row { theme: theme.into(), sha256: sha256.into(), file: file.into(), source: source.into() });
+        rows.push(Row { theme: theme.into(), sha256: sha256.into(), file: file.into(), source: source.into(), origin });
     }
     Ok(rows)
 }
@@ -155,7 +164,11 @@ pub fn read(path: &Path) -> Result<Vec<Row>> {
 pub fn write(path: &Path, rows: &[Row]) -> Result<()> {
     let mut text = HEADER.to_string();
     for r in rows {
-        text.push_str(&format!("{}\t{}\t{}\t{}\n", r.theme, r.sha256, r.file, r.source));
+        text.push_str(&format!("{}\t{}\t{}\t{}", r.theme, r.sha256, r.file, r.source));
+        if let Some(origin) = &r.origin {
+            text.push_str(&format!("\t{origin}"));
+        }
+        text.push('\n');
     }
     std::fs::write(path, text).with_context(|| format!("write {}", path.display()))
 }
@@ -179,6 +192,10 @@ pub fn validate(rows: &[Row]) -> Result<()> {
         } else {
             ensure!(r.source.starts_with("https://") && !r.source.contains(char::is_whitespace), "{at}: source must be an HTTPS URL");
         }
+        if let Some(origin) = &r.origin {
+            ensure!(r.local(), "{at}: only images stored here have an origin");
+            ensure!(origin.starts_with("https://") && !origin.contains(char::is_whitespace), "{at}: origin must be an HTTPS URL");
+        }
     }
     Ok(())
 }
@@ -201,7 +218,22 @@ mod tests {
     use super::*;
 
     fn row(file: &str, source: &str) -> Row {
-        Row { theme: "gruvbox".into(), sha256: "a".repeat(64), file: file.into(), source: source.into() }
+        Row { theme: "gruvbox".into(), sha256: "a".repeat(64), file: file.into(), source: source.into(), origin: None }
+    }
+
+    #[test]
+    fn stored_images_credit_their_origin() {
+        let mut r = row("curated-sargent-at-chioggia.jpg", "images/sargent-at-chioggia.jpg");
+        r.origin = Some("https://upload.wikimedia.org/wikipedia/commons/a/ad/John_S._Sargent_-_At_Chioggia.jpg".into());
+        assert_eq!(r.url(), format!("{RAW_BASE}/images/sargent-at-chioggia.jpg"));
+        assert_eq!(r.credit().label, "John Singer Sargent, Wikimedia Commons");
+        assert_eq!(r.credit().url, "https://commons.wikimedia.org/wiki/File:John_S._Sargent_-_At_Chioggia.jpg");
+        assert!(validate(std::slice::from_ref(&r)).is_ok());
+        let text = format!("{HEADER}gruvbox\t{}\t{}\t{}\t{}\n", r.sha256, r.file, r.source, r.origin.as_ref().unwrap());
+        assert_eq!(parse(&text).unwrap(), [r.clone()]);
+        let mut remote = row("curated-x.jpg", "https://e.com/x.jpg");
+        remote.origin = Some("https://e.com/page".into());
+        assert!(validate(&[remote]).is_err());
     }
 
     #[test]

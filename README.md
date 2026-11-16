@@ -127,9 +127,11 @@ contact sheets.
 The paintings come from Wikimedia Commons, at 3840 pixels wide where the
 original allows it. Sargent's are all 3000 pixels or wider. Of John
 Martin's, ten are 3840 pixels wide and nine are 1920. Most paintings appear in one or two themes. Dracula, Hackerman,
-Lumon, Lupine, Retro 82 and Vantablack have none. Cabanel's *Ophelia* had no
-source large enough, so this repository stores a 4K restoration made with the
-SeedVR2 upscaler; see [`images/`](images).
+Lumon, Lupine, Retro 82 and Vantablack have none. Commons limits downloads of
+full-size files, so the 12 Sargent paintings narrower than 3840 pixels are
+stored in [`images/`](images). Cabanel's *Ophelia* had no source large
+enough, so this repository stores a 4K restoration made with the SeedVR2
+upscaler.
 
 ## Credits
 

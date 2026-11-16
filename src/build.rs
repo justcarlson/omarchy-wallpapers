@@ -125,26 +125,32 @@ fn original(root: &Path, row: &Row, caches: &[PathBuf]) -> Result<PathBuf> {
         ensure!(sha256(&path)? == row.sha256, "{}: checksum mismatch", path.display());
         return Ok(path);
     }
+    fetch(&row.url(), &row.sha256, caches)
+}
+
+/// A file by hash from the first cache that has it, else downloaded into the first cache.
+pub fn fetch(url: &str, checksum: &str, caches: &[PathBuf]) -> Result<PathBuf> {
     for cache in caches {
-        let path = cache.join(&row.sha256);
-        if path.exists() && sha256(&path)? == row.sha256 {
+        let path = cache.join(checksum);
+        if path.exists() && sha256(&path)? == checksum {
             return Ok(path);
         }
     }
     let cache = &caches[0];
     std::fs::create_dir_all(cache)?;
-    let partial = cache.join(format!(".download.{}", row.sha256));
+    let partial = cache.join(format!(".download.{checksum}"));
     // Wikimedia throttles bursts, so space out downloads.
     std::thread::sleep(Duration::from_secs(2));
     let status = Command::new("curl")
-        .args(["--fail", "--silent", "--show-error", "--location", "--retry", "3", "--output"])
+        .args(["--fail", "--silent", "--show-error", "--location", "--retry", "3"])
+        .args(["--user-agent", "omarchy-wallpapers-gallery/1.0", "--output"])
         .arg(&partial)
-        .arg(row.url())
+        .arg(url)
         .status()
         .context("run curl")?;
-    ensure!(status.success(), "download failed: {}", row.url());
-    ensure!(sha256(&partial)? == row.sha256, "{}: checksum mismatch for {}", row.file, row.url());
-    let path = cache.join(&row.sha256);
+    ensure!(status.success(), "download failed: {url}");
+    ensure!(sha256(&partial)? == checksum, "checksum mismatch for {url}");
+    let path = cache.join(checksum);
     std::fs::rename(&partial, &path)?;
     Ok(path)
 }

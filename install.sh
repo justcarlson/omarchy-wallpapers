@@ -166,7 +166,7 @@ fetch() { # source checksum
 declare -A wanted=()
 problems=0 added=0 total=0
 current=""
-while IFS=$'\t' read -r theme checksum file source; do
+while IFS=$'\t' read -r theme checksum file source _; do
   [[ -z $theme || $theme == \#* || -z ${selected[$theme]:-} ]] && continue
   wanted[$theme/$file]=1
   total=$((total + 1))

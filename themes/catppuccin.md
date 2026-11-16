@@ -41,7 +41,7 @@ aether --import-blueprint https://raw.githubusercontent.com/justcarlson/omarchy-
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/John_Martin_-_Destruction_of_Tyre_-_Google_Art_Project.jpg/3840px-John_Martin_-_Destruction_of_Tyre_-_Google_Art_Project.jpg"><img src="../docs/previews/catppuccin/john-martin-destruction-of-tyre.jpg" alt="Destruction of Tyre"></a><br><b>Destruction of Tyre</b><br><sub><a href="https://commons.wikimedia.org/wiki/File:John_Martin_-_Destruction_of_Tyre_-_Google_Art_Project.jpg">John Martin, Wikimedia Commons</a> · <a href="../blueprints/catppuccin/john-martin-destruction-of-tyre.json">Aether blueprint</a></sub></td>
-<td width="50%" valign="top"><a href="https://upload.wikimedia.org/wikipedia/commons/a/ad/John_S._Sargent_-_At_Chioggia_%28c._1903%29_-_Mint_Museum.jpg"><img src="../docs/previews/catppuccin/sargent-at-chioggia.jpg" alt="At Chioggia"></a><br><b>At Chioggia</b><br><sub><a href="https://commons.wikimedia.org/wiki/File:John_S._Sargent_-_At_Chioggia_%28c._1903%29_-_Mint_Museum.jpg">John Singer Sargent, Wikimedia Commons</a> · <a href="../blueprints/catppuccin/sargent-at-chioggia.json">Aether blueprint</a></sub></td>
+<td width="50%" valign="top"><a href="https://raw.githubusercontent.com/justcarlson/omarchy-wallpapers/main/images/sargent-at-chioggia.jpg"><img src="../docs/previews/catppuccin/sargent-at-chioggia.jpg" alt="At Chioggia"></a><br><b>At Chioggia</b><br><sub><a href="https://commons.wikimedia.org/wiki/File:John_S._Sargent_-_At_Chioggia_%28c._1903%29_-_Mint_Museum.jpg">John Singer Sargent, Wikimedia Commons</a> · <a href="../blueprints/catppuccin/sargent-at-chioggia.json">Aether blueprint</a></sub></td>
 </tr>
 </table>
 

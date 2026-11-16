@@ -41,7 +41,7 @@ aether --import-blueprint https://raw.githubusercontent.com/justcarlson/omarchy-
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Arcadian_Landscape.jpg/1920px-Arcadian_Landscape.jpg"><img src="../docs/previews/starship/john-martin-arcadian-landscape.jpg" alt="Arcadian Landscape"></a><br><b>Arcadian Landscape</b><br><sub><a href="https://commons.wikimedia.org/wiki/File:Arcadian_Landscape.jpg">John Martin, Wikimedia Commons</a> · <a href="../blueprints/starship/john-martin-arcadian-landscape.json">Aether blueprint</a></sub></td>
-<td width="50%" valign="top"><a href="https://upload.wikimedia.org/wikipedia/commons/a/ad/John_S._Sargent_-_At_Chioggia_%28c._1903%29_-_Mint_Museum.jpg"><img src="../docs/previews/starship/sargent-at-chioggia.jpg" alt="At Chioggia"></a><br><b>At Chioggia</b><br><sub><a href="https://commons.wikimedia.org/wiki/File:John_S._Sargent_-_At_Chioggia_%28c._1903%29_-_Mint_Museum.jpg">John Singer Sargent, Wikimedia Commons</a> · <a href="../blueprints/starship/sargent-at-chioggia.json">Aether blueprint</a></sub></td>
+<td width="50%" valign="top"><a href="https://raw.githubusercontent.com/justcarlson/omarchy-wallpapers/main/images/sargent-at-chioggia.jpg"><img src="../docs/previews/starship/sargent-at-chioggia.jpg" alt="At Chioggia"></a><br><b>At Chioggia</b><br><sub><a href="https://commons.wikimedia.org/wiki/File:John_S._Sargent_-_At_Chioggia_%28c._1903%29_-_Mint_Museum.jpg">John Singer Sargent, Wikimedia Commons</a> · <a href="../blueprints/starship/sargent-at-chioggia.json">Aether blueprint</a></sub></td>
 </tr>
 </table>
 

@@ -16,7 +16,8 @@ use std::path::{Path, PathBuf};
 const USAGE: &str = "\
 Usage: gallery <command>
 
-  sync <dir>        Copy a curator's manifest (themes.tsv, optional dracula.tsv, images/) into this repository
+  sync <dir> [--cache <dir>]...
+                    Copy a curator's manifest (themes.tsv, optional dracula.tsv, images/) into this repository
   build [--force] [--cache <dir>]...
                     Fetch originals, extract Aether palettes, draw previews and mosaics, then render
   render            Rebuild README.md, themes/*.md and docs/index.html from the committed data
@@ -36,8 +37,17 @@ fn run() -> Result<()> {
     ensure!(root.join("wallpapers.tsv").exists() || args.first().map(String::as_str) == Some("sync"), "run gallery from the repository root");
     match args.first().map(String::as_str) {
         Some("sync") => {
-            let [_, dir] = &args[..] else { bail!(USAGE) };
-            sync(&root, Path::new(dir))
+            let mut caches = build::default_caches();
+            let mut dir = None;
+            let mut rest = args[1..].iter();
+            while let Some(arg) = rest.next() {
+                match arg.as_str() {
+                    "--cache" => caches.push(rest.next().context("--cache needs a directory")?.into()),
+                    _ if dir.is_none() && !arg.starts_with('-') => dir = Some(PathBuf::from(arg)),
+                    _ => bail!(USAGE),
+                }
+            }
+            sync(&root, &dir.context(USAGE)?, &caches)
         }
         Some("build") => {
             let mut options = build::Options { caches: build::default_caches(), force: false };
@@ -68,8 +78,15 @@ fn sha256(path: &Path) -> Result<String> {
     Ok(format!("{:x}", hasher.finalize()))
 }
 
+/// Full-size Wikimedia Commons files. Commons answers repeated downloads of
+/// these with HTTP 429 and asks clients to use thumbnails, so a painting with
+/// no large enough thumbnail is stored in `images/` instead.
+fn commons_original(source: &str) -> bool {
+    source.starts_with("https://upload.wikimedia.org/") && !source.contains("/thumb/")
+}
+
 /// Import the curator's manifests. Dracula rows use the older three-column form.
-fn sync(root: &Path, from: &Path) -> Result<()> {
+fn sync(root: &Path, from: &Path, caches: &[PathBuf]) -> Result<()> {
     let mut rows = manifest::read(&from.join("themes.tsv"))?;
     let dracula = from.join("dracula.tsv");
     if dracula.exists() {
@@ -79,17 +96,26 @@ fn sync(root: &Path, from: &Path) -> Result<()> {
             if file.ends_with(".txt") {
                 continue; // Licence files; CREDITS.md links them.
             }
-            rows.push(Row { theme: "dracula".into(), sha256: sha256.into(), file: format!("curated-{file}"), source: source.into() });
+            rows.push(Row { theme: "dracula".into(), sha256: sha256.into(), file: format!("curated-{file}"), source: source.into(), origin: None });
         }
     }
     manifest::validate(&rows)?;
 
-    let wanted: BTreeSet<&str> = rows.iter().filter(|r| r.local()).map(|r| r.source.as_str()).collect();
-    for source in &wanted {
-        let target = root.join(source);
-        std::fs::create_dir_all(target.parent().unwrap())?;
-        std::fs::copy(from.join(source), &target).with_context(|| format!("copy {source}"))?;
+    std::fs::create_dir_all(root.join("images"))?;
+    for r in rows.iter().filter(|r| r.local()) {
+        std::fs::copy(from.join(&r.source), root.join(&r.source)).with_context(|| format!("copy {}", r.source))?;
     }
+    for r in rows.iter_mut().filter(|r| commons_original(&r.source)) {
+        let stored = format!("images/{}", r.file.strip_prefix("curated-").unwrap_or(&r.file));
+        let target = root.join(&stored);
+        if !(target.exists() && sha256(&target)? == r.sha256) {
+            std::fs::copy(build::fetch(&r.source, &r.sha256, caches)?, &target).with_context(|| format!("store {stored}"))?;
+        }
+        r.origin = Some(std::mem::replace(&mut r.source, stored));
+    }
+    manifest::validate(&rows)?;
+
+    let wanted: BTreeSet<&str> = rows.iter().filter(|r| r.local()).map(|r| r.source.as_str()).collect();
     if let Ok(entries) = std::fs::read_dir(root.join("images")) {
         for entry in entries {
             let path = entry?.path();

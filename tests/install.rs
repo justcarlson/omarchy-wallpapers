@@ -32,7 +32,12 @@ impl Fixture {
         let mut text = String::from("# theme\tsha256\tfile\tsource\n");
         for (theme, image) in rows {
             fs::write(self.dir.join(format!("repo/images/{image}.jpg")), image).unwrap();
-            text.push_str(&format!("{theme}\t{}\tcurated-{image}.jpg\timages/{image}.jpg\n", sha(image.as_bytes())));
+            text.push_str(&format!("{theme}\t{}\tcurated-{image}.jpg\timages/{image}.jpg", sha(image.as_bytes())));
+            // Images stored here may name their origin in a fifth column.
+            if *image == "c" {
+                text.push_str("\thttps://example.com/c.jpg");
+            }
+            text.push('\n');
         }
         fs::write(self.dir.join("repo/wallpapers.tsv"), text).unwrap();
     }

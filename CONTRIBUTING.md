@@ -53,10 +53,11 @@ text between the `<!-- stats -->` and `<!-- gallery -->` markers.
 `wallpapers.tsv` has one row per wallpaper:
 
 ```
-theme  sha256  file  source
+theme  sha256  file  source  [origin]
 ```
 
 `file` is the name the installer gives it, always starting with `curated-`.
 `source` is an HTTPS URL pinned to an exact commit, or a path under
-`images/` for an image stored here. The installer refuses any file whose
-SHA-256 does not match.
+`images/` for an image stored here. `origin` is optional: for an image
+stored here, it names where the image came from, and credits link to it. The
+installer refuses any file whose SHA-256 does not match.

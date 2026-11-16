@@ -266,7 +266,7 @@ mod tests {
 
     #[test]
     fn aether_links_encode_the_blueprint_url() {
-        let row = Row { theme: "gruvbox".into(), sha256: "a".repeat(64), file: "curated-x y.jpg".into(), source: "images/x.jpg".into() };
+        let row = Row { theme: "gruvbox".into(), sha256: "a".repeat(64), file: "curated-x y.jpg".into(), source: "images/x.jpg".into(), origin: None };
         assert_eq!(
             aether_link(&row),
             "aether://apply?external_theme=https%3A%2F%2Fraw.githubusercontent.com%2Fjustcarlson%2Fomarchy-wallpapers%2Fmain%2Fblueprints%2Fgruvbox%2Fx%20y.json"
