@@ -32,6 +32,9 @@ if [[ -t 1 ]]; then
 else
   bold="" dim="" green="" red="" reset=""
 fi
+# Wikimedia asks clients to name themselves, and throttles bursts.
+download() { curl --fail --silent --show-error --location --retry 5 --retry-delay 5 --user-agent "omarchy-wallpapers-installer/1.0" "$@"; }
+commons_fetches=0
 say() { printf '%s\n' "$*"; }
 fail() { printf '%serror:%s %s\n' "$red" "$reset" "$*" >&2; exit 1; }
 
@@ -83,7 +86,7 @@ if [[ -n $script && -f $script && -f $(dirname "$script")/wallpapers.tsv ]]; the
   source_dir=$(cd "$(dirname "$script")" && pwd)
   manifest=$(<"$source_dir/wallpapers.tsv")
 else
-  manifest=$(curl --fail --silent --show-error --location --retry 3 "$raw/wallpapers.tsv") ||
+  manifest=$(download "$raw/wallpapers.tsv") ||
     fail "could not download the wallpaper list from $raw"
 fi
 
@@ -144,7 +147,10 @@ fetch() { # source checksum
     cp -- "$source_dir/$source" "$temporary"
   else
     [[ $source == https://* ]] || source="$raw/$source"
-    curl --fail --silent --show-error --location --retry 3 --output "$temporary" "$source" || { cleanup; temporary=""; return 1; }
+    if [[ $source == https://upload.wikimedia.org/* ]]; then
+      ((commons_fetches++)) && sleep 2
+    fi
+    download --output "$temporary" "$source" || { cleanup; temporary=""; return 1; }
   fi
   if ! matches "$temporary" "$checksum"; then
     say "${red}checksum mismatch${reset} for $source" >&2
@@ -233,9 +239,11 @@ if ((problems)); then
   fail "$problems wallpapers failed. Run the same command again to retry them."
 fi
 
+themes="${#selected[@]} themes"
+((${#selected[@]} == 1)) && themes="1 theme"
 if [[ $mode == check ]]; then
-  say "${green}All $total wallpapers across ${#selected[@]} themes are in place.${reset}"
+  say "${green}All $total wallpapers across $themes are in place.${reset}"
 else
-  say "${green}${bold}$total wallpapers ready across ${#selected[@]} themes${reset} ${dim}($added new)${reset}"
+  say "${green}${bold}$total wallpapers ready across $themes${reset} ${dim}($added new)${reset}"
   say "Press ${bold}Super + Ctrl + Space${reset} to pick a background for the current theme."
 fi

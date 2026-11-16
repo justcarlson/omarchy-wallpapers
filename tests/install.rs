@@ -98,7 +98,7 @@ fn ok(output: &Output) -> String {
 fn installs_only_the_themes_you_have_and_is_idempotent() {
     let f = Fixture::new("default");
     let text = ok(&f.run(&[]));
-    assert!(text.contains("2 wallpapers ready across 1 themes"), "{text}");
+    assert!(text.contains("2 wallpapers ready across 1 theme"), "{text}");
     assert_eq!(f.installed("gruvbox"), ["curated-a.jpg", "curated-b.jpg"]);
     assert!(f.installed("nord").is_empty());
     ok(&f.run(&["--check"]));
